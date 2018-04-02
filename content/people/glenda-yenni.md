@@ -9,7 +9,7 @@ title = "Glenda Yenni"
 summary = "Project Manager"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "glenda-yenni.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ernest-lab", "white-lab"]`
