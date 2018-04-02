@@ -23,5 +23,3 @@ weight = 3
   url = ""
   label = ''
 +++
-
-Interdisciplinary ecology research group
