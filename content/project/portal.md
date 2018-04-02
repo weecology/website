@@ -28,4 +28,14 @@ caption = "My caption :smile:"
 
 +++
 
-Portal. Is. Awesome.
+Portal is our long-term field site in southern Arizona where the dynamics of rodents, plants, and ants has been studied for the last 40 years. This site plays an active role in our research. Research at the site includes:
+
+* Understanding the dynamics and natural history of the ecosystem
+* Using it as a test bed for more general analyses of ecological dynamics
+* Forecasting the future state of the system
+
+All of the data from the Portal Project is made publicly available in near real time and we develop an R package to make working with the Portal data easier and more efficient:
+
+* [Data](https://github.com/weecology/PortalData)
+* [portalr R package](https://github.com/weecology/portalr)
+

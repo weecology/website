@@ -28,4 +28,4 @@ caption = ""
 
 +++
 
-Ethan's group studies anything involving lots of data and ecology.
+Ethan's studies data-intensive problems in ecology including ecological forecasting and using high resolution remote sensing to understand individual level patterns in ecological systems at large scales. He is actively involved in computational training efforts as a Data Carpentry founder, The Carpentries Executive Committee member, and lead developer of the semester long Data Carpentry course.

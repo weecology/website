@@ -29,4 +29,4 @@ caption = "Morgan Ernest"
 
 +++
 
-Morgan's group studies anything so much it's really hard to distill into words. She runs the Portal Project long-term ecological research site and keeps Ethan White under control.
+Morgan's group studies how natural systems change through time, both historically and in the future. She runs the Portal Project long-term ecological research site.

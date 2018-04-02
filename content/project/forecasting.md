@@ -28,4 +28,15 @@ caption = "My caption :smile:"
 
 +++
 
-We forecast the future state of ecological systems. We don't do very well, but we're getting better.
+We are broadly interested in forecasting the future state of ecological systems, both to provide actionable information about how these systems will change and to assess how well models capture the key information about how ecological systems operate. As part of this effort we are working to make forecasts in automated iterative ways so that the forecasts are automatically updated and evaluated as new data is collected. Current projects include:
+
+* Automated-iterative forecasting for the Portal Project
+    * [Website](https://portal.naturecast.org/)
+    * [Code](https://github.com/weecology/portalPredictions)
+    * [Preprint](https://doi.org/10.1101/268623)
+* Automated phenology forecasting
+    * [Website](http://phenology.naturecast.org/)
+    * [Code](https://github.com/sdtaylor/phenology_forecasts)
+* Research on forecasting biodiversity
+    * [Paper](https://doi.org/10.7717/peerj.4278)
+    * [Code](https://doi.org/10.7717/peerj.4278)
