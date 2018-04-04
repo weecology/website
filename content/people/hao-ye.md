@@ -9,7 +9,7 @@ title = "Hao Ye"
 summary = "Postdoc"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "hao-ye.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ernest-lab", "white-lab"]`
@@ -28,4 +28,4 @@ caption = ""
 
 +++
 
-Hao models the dynamics of ecological systems.
+Hao's research centers around how ecosystems are changing through time, and the methods by which we can learn about the mechanisms and outcomes of change using time series data.
