@@ -9,7 +9,7 @@ title = "Andrew Zhang"
 summary = "Undergraduate Researcher"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "andrew-zhang.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ernest-lab", "white-lab"]`
