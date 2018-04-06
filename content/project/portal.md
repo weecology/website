@@ -23,18 +23,20 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = "headers/portal_banner.jpg"
+caption = "Photo by Glenda Yenni"
 
 +++
 
-Portal is our long-term field site in southern Arizona where the dynamics of rodents, plants, and ants has been studied for the last 40 years. This site plays an active role in our research. Research at the site includes:
+Portal is our long-term field site in southern Arizona. For over 40 years, ecologists have studied the dynamics of rodents, plants, and ants on this patch of desert. We are the current custodians of the project and it plays an active role in our research. We use the Portal Project as a sandbox for our ideas about species interactions, community dynamics, and modern data management.
 
-* Understanding the dynamics and natural history of the ecosystem
-* Using it as a test bed for more general analyses of ecological dynamics
+Current Projects Using Portal Data:
+
+* Quantifying community dynamics
 * Forecasting the future state of the system
+* Abiotic and biotic drivers of diet overlap
 
-All of the data from the Portal Project is made publicly available in near real time and we develop an R package to make working with the Portal data easier and more efficient:
+All of the data from the Portal Project is publicly available in near real time and we develop an R package to make working with the Portal data easier and more efficient:
 
 * [Data](https://github.com/weecology/PortalData)
 * [portalr R package](https://github.com/weecology/portalr)
