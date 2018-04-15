@@ -1,0 +1,15 @@
+# Redirects from old Drupal site configuration
+
+/user/*	    	     	    	 /#people
+/members    	 		 /#people
+/research   	 		 /#projects
+/publications	 		 /publication
+/resources	 		 /
+/data		 		 /#projects
+/software	 		 /#projects
+/grants		 		 /#projects
+/collaborators	 		 /
+/node		 		 /
+/ernest-prospective-students     /
+/joining-the-whitelab		 /
+/join-weecology			 /
