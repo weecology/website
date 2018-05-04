@@ -1,12 +1,12 @@
 +++
 # Date this page was created.
-date = "2018-05-01"
+date = "2016-04-21"
 
 # Project title.
 title = "Pranita Sharma"
 
 # Project summary to display on homepage.
-summary = "Graduate Student"
+summary = "Student Software Developer"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "psharma.jpg"
