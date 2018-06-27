@@ -40,5 +40,9 @@ filter_default = 0
   name = "Ernest Lab"
   tag = ".ernest-lab"
 
+[[filter]]
+  name = "Alumni"
+  tag = ".alumni"
+
 +++
 
