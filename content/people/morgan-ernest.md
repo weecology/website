@@ -24,8 +24,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/morganernest.jpg"
-caption = "Morgan Ernest"
+image = ""
+caption = ""
 
 +++
 
