@@ -28,9 +28,10 @@ filter_default = 0
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
+# The "Current" shows current members
 [[filter]]
-  name = "All"
-  tag = "*"
+  name = "Current"
+  tag = ".white-lab, .ernest-lab"
 
 [[filter]]
   name = "White Lab"
