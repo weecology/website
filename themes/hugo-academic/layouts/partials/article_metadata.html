@@ -1,15 +1,16 @@
 {{ $is_list := .is_list }}
 {{ $ := .content }}
 <div class="article-metadata">
-
-  <!-- <span class="article-date">
+{{ if ne $.Site.Params.show_date false }}
+<span class="article-date">
     {{ if ne $.Params.Lastmod $.Params.Date }}
         {{ i18n "last_updated" }}
     {{ end }}
     <time datetime="{{ $.Date }}" itemprop="datePublished dateModified">
       {{ $.Lastmod.Format $.Site.Params.date_format }}
     </time>
-  </span> -->
+  </span>
+{{ end }}
   <span itemscope itemprop="author publisher" itemtype="http://schema.org/Person">
     <meta itemprop="name" content="{{ $.Site.Params.name }}">
   </span>
