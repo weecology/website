@@ -29,3 +29,5 @@ caption = ""
 +++
 
 Shawn works on ecological forecasting with a particular interest in phenology.
+
+[Shawn's Personal Site](https://sdtaylor.github.io)
