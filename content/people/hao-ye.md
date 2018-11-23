@@ -29,3 +29,5 @@ caption = ""
 +++
 
 Hao's research centers around how ecosystems are changing through time, and the methods by which we can learn about the mechanisms and outcomes of change using time series data.
+
+[Hao's personal website](https://haoye.us)
