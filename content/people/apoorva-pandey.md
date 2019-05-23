@@ -9,7 +9,7 @@ title = "Apoorva Pandey"
 summary = "Student Software Developer"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "apoorva-pandey.jpg"
+image_preview = "apoorva-pandey.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ernest-lab", "white-lab"]`
@@ -28,4 +28,4 @@ caption = ""
 
 +++
 
-Apoorva is an Undergraduate Student in Computer Science. He has been selected in Google Summer of Code 2018 to work with us. He will be working on the project [Status Server and Dashboard](https://summerofcode.withgoogle.com/projects/#5776516101701632) that will be used for checking the availability and installation of datasets available through Data Retriever. 
+Apoorva is an Undergraduate Student in Computer Science. He was selected in Google Summer of Code 2018 to work on the project [Status Server and Dashboard](https://summerofcode.withgoogle.com/projects/#5776516101701632) that is used for checking the availability and installation of datasets available through Data Retriever. He has been selected again in Google Summer of Code 2019 to work on the project [Retriever Provenance](https://summerofcode.withgoogle.com/projects/#5933660455305216) which will add provenance capabilities to Data Retriever.
