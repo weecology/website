@@ -28,4 +28,4 @@ caption = ""
 
 +++
 
-Akash is a Computer Science undergraduate at Delhi Technological university. He is a Google Summer of Code 2016 intern for the EcoData Retriever project and will work on enhancing the functionality and usability of the software. Interests include competitive programming, machine learning and web development.
+Akash was a Google Summer of Code 2016 intern for the Data Retriever project and worked on enhancing the functionality and usability of the software.

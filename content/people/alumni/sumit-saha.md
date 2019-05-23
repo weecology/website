@@ -3,17 +3,17 @@
 date = "2016-04-21"
 
 # Project title.
-title = "Pranita Sharma"
+title = "Sumit Saha"
 
 # Project summary to display on homepage.
 summary = "Student Software Developer"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "psharma.jpg"
+image_preview = "alumni/sumit-saha.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ernest-lab", "white-lab"]`
-tags = ["white-lab"]
+tags = ["alumni"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -28,4 +28,4 @@ caption = ""
 
 +++
 
-Pranita is an enrolled Computer Science Graduate student in Fall 2018 at North Carolina State University. She is one of the students selected in Google Summer of Code 2018 under the umbrella of NumFocus. She will be working on the project-"Synchronize R API with the Python Data Retriever API and improve usability of R package".
+Sumit was a summer intern who worked on developing modules for the Expansion of Spatial Data Support to the Data Retriever.
