@@ -9,7 +9,7 @@ title = "Elita Baldridge"
 summary = "Phd student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "alumni/elita_baldridge.jpg"
+image_preview = "alumni/elita_baldridge.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ernest-lab", "white-lab"]`

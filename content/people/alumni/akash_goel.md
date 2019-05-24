@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2016-04-22"
 
 # Project title.
 title = "Akash Goel"
@@ -9,7 +9,7 @@ title = "Akash Goel"
 summary = "Student Software Developer"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "alumni/"
+image_preview = "alumni/akash-goel.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ernest-lab", "white-lab"]`
