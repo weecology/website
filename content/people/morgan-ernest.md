@@ -4,7 +4,8 @@
 date = "2016-04-28"
 
 # Project title.
-title = "S.K. Morgan Ernest"
+# Director names should begin with a tab
+title = "	S.K. Morgan Ernest"
 
 # Project summary to display on homepage.
 summary = "Founder"
