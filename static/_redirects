@@ -13,3 +13,9 @@
 /ernest-prospective-students     /
 /joining-the-whitelab		 /
 /join-weecology			 /
+
+# Redirecting some subdomains
+
+http://ernestlab.weecology.org https://www.weecology.org 301!
+https://ernestlab.weecology.org https://www.weecology.org 301!
+http://blog.weecology.org https://jabberwocky.weecology.org/ 301!
