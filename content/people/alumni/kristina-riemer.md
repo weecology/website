@@ -13,7 +13,7 @@ image_preview = "alumni/kristina-riemer.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ernest-lab", "white-lab"]`
-tags = [alumni"]
+tags = ["alumni"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://kristinariemer.github.io/"
