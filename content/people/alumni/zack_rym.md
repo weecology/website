@@ -28,4 +28,6 @@ caption = ""
 
 +++
 
-Zack joined the lab in Spring 2011 from the University of Michigan, where he earned an M.S. in forest ecology studying invasive species. His Ph.D research uses scaling theory to understand the effects of pruning on orchard fruit canopy shape and structure. As a sort of life's experiment, he actively explores sustainable agriculture managing a 2-acre farm with goats, chickens, fruits, and vegetables.
+Zack joined the lab as a graduate student in Spring 2011 from the University of Michigan, where he earned an M.S. in forest ecology studying invasive species. His Ph.D research used scaling theory to understand the effects of pruning on orchard fruit canopy shape and structure. After graduating he did a short stint with the lab working on educational resources for teaching computational tools and is currently an Assistant Professor and Extension Specialist at the University of Florida 
+
+[Zack's Website](https://trec.ifas.ufl.edu/faculty/brym/)

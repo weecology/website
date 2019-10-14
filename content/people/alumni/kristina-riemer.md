@@ -9,14 +9,14 @@ title = "Kristina Riemer"
 summary = "PhD Student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "kristina-riemer.jpg"
+image_preview = "alumni/kristina-riemer.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ernest-lab", "white-lab"]`
-tags = ["white-lab"]
+tags = [alumni"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://kristinariemer.github.io/"
 
 # Does the project detail page use math formatting?
 math = false
@@ -28,4 +28,6 @@ caption = ""
 
 +++
 
-Kristina studies the importance of size in ecological systems and how it responds to changes in the environment.
+Kristina studies the importance of size in ecological systems and how it responds to changes in the environment. 
+
+[Kristina's personal website](https://kristinariemer.github.io/)

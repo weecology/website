@@ -9,11 +9,11 @@ title = "Erica Christensen"
 summary = "PhD Student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "erica-christensen.jpg"
+image_preview = "alumni/erica-christensen.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ernest-lab", "white-lab"]`
-tags = ["ernest-lab"]
+tags = ["alumni"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -28,4 +28,6 @@ caption = ""
 
 +++
 
-Erica works on modeling the dynamics of ecological communities.
+Erica was a graduate student in the Ernest Lab. She worked on modeling the dynamics of ecological communities. 
+
+[Erica's website](https://jornada.nmsu.edu/people/erica-christensen)

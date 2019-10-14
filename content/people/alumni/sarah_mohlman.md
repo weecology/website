@@ -3,7 +3,7 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Sarah Mohlman"
+title = "Sarah Supp"
 
 # Project summary to display on homepage.
 summary = "Phd student"
@@ -28,4 +28,6 @@ caption = ""
 
 +++
 
-Sarah started Fall 2007 and comes to us from Valparaiso University. Sarah is interested in exploring metacommunity dynamics and macroecological patterns and has also discovered that rodents really aren't that bad.
+Sarah was a PhD student in the Ernest Lab starting in 2007. Sarah studied metacommunity dynamics and macroecological patterns and discovered that rodents really aren't that bad. After postdocs in Catherine Graham's lab and as an NSF Postdoctoral Fellow, she joined Dennison University as an assistant professor.
+
+[Sarah's Website](https://sarahsupp.org/)

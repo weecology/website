@@ -28,4 +28,4 @@ caption = ""
 
 +++
 
-Glenda managers our large collaborative projects.
+Glenda manages our large collaborative projects.

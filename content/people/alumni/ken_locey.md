@@ -28,4 +28,6 @@ caption = ""
 
 +++
 
-Ken completed his PhD in 2013. While in the lab he was awarded Utah State University's three most prestigious graduate fellowships. He is currently a postdoctoral research at the University of Indiana and a co-PI on an National Science Foundation Dimensions of Biodiversity grant.
+Ken completed his PhD in 2013. While in the lab he was awarded Utah State University's three most prestigious graduate fellowships. After a postdoc at the University of Indiana, serving as a co-PI on an National Science Foundation Dimensions of Biodiversity grant, he has recently joined Dine College as an assistant professor.
+
+[Ken's Website](https://kenlocey.weecology.org/)

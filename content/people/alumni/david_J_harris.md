@@ -28,4 +28,6 @@ caption = ""
 
 +++
 
-Davids's studies ....
+Dave was a poastdoctoral researcher in the lab from 2015-2018 specializing in applying machine learning approaches to ecological problems. He is currently a Lead Data Scientist at Chewy.
+
+[Dave's LinkedIn Page](https://www.linkedin.com/in/davidjayharris/)
