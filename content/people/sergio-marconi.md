@@ -29,3 +29,5 @@ caption = ""
 +++
 
 Sergio studies how to convert remote sensing data into ecological information and using this information in large scale models of traits.
+
+[Sergio's Website](https://marconis.github.io/data_science_ecology/)

@@ -28,4 +28,6 @@ caption = ""
 
 +++
 
-Kari joined the lab in Fall 2014 as an undergraduate research fellow pursuing degrees in Conservation and Restoration Ecology and Statistics. Her research looks at the sensitivity of conservation prioritizations to data type, specifically for bird species in North America.
+Kari joined the lab in Fall 2014 as an undergraduate research fellow pursuing degrees in Conservation and Restoration Ecology and Statistics. Her research looked at the sensitivity of conservation prioritizations to data type, specifically for bird species in North America. She is currently a graduate student at the University of California Berkeley.
+
+[Kari's Website](https://ourenvironment.berkeley.edu/people/kari-norman)

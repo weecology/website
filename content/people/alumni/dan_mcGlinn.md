@@ -29,3 +29,5 @@ caption = ""
 +++
 
 Dan was a postdoctoral researcher in the lab from 2011 to 2014. He is currently a faculty member at the College of Charleston.
+
+[Dan's Website](https://www.mcglinnlab.org/)

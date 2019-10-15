@@ -29,5 +29,6 @@ caption = ""
 +++
 
 Kate was a postdoctoral researcher in the lab from 2008 to 2011.
-She is now the lead Vertebrate Ecologist at theNational Ecological Observatory Network.
-Kate is a former rodent RA studying the complexities of rodent responses to precipitation and community-level responses to a new colonizing rodent species.
+She is now the Lead Vertebrate Ecologist at the National Ecological Observatory Network. Kate is also a former rodent RA with the Portal Project studying the complexities of rodent responses to precipitation and community-level responses to a new colonizing rodent species.
+
+[Kate's Website](http://www.katethibault.com/)

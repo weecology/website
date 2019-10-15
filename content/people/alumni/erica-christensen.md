@@ -3,17 +3,17 @@
 date = "2016-04-22"
 
 # Project title.
-title = "Kristina Riemer"
+title = "Erica Christensen"
 
 # Project summary to display on homepage.
 summary = "PhD Student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "kristina-riemer.jpg"
+image_preview = "alumni/erica-christensen.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ernest-lab", "white-lab"]`
-tags = ["white-lab"]
+tags = ["alumni"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -28,4 +28,6 @@ caption = ""
 
 +++
 
-Kristina studies the importance of size in ecological systems and how it responds to changes in the environment.
+Erica was a graduate student in the Ernest Lab. She worked on modeling the dynamics of ecological communities. 
+
+[Erica's website](https://jornada.nmsu.edu/people/erica-christensen)

@@ -28,4 +28,6 @@ caption = ""
 
 +++
 
-Clayton was an undergraduate researcher in the lab from 2009 to 2010. He conducted an independent research project on the influence of body size on community structure in mammals and in the process he learned how to program and work with data. He went on to found a startup company and is now a graduate student in the Center for Neural Engineering at the University of Southern California and a Data Analyst at Rouse Services.
+Clayton was an undergraduate researcher in the lab from 2009 to 2010. He conducted an independent research project on the influence of body size on community structure in mammals and in the process he learned how to program and work with data. He went on to found a startup company and then went to graduate school. He is currently a postdoc in biomedical engineering at Case Western University and a Senior Data Engineer at Rouse Services.
+
+[Clayton's LinkedIn Profile](https://www.linkedin.com/in/clayton-bingham-89868432/)

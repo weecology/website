@@ -28,4 +28,6 @@ caption = ""
 
 +++
 
-Ben was an undergraduate researcher and software developer in the lab from 2010 to 2012. During this time he was the lead developer on the EcoData Retriever and conducted independent research on the macroecology of disease. He attended graduate school at the University of North Carolina, was awarded a National Science Foundation Graduate Research Fellowship, and is currently a Data Platform Engineer at Machine Zone.
+Ben was an undergraduate researcher and software developer in the lab from 2010 to 2012. During this time he was the lead developer on the EcoData Retriever and conducted independent research on the macroecology of disease. He attended graduate school at the University of North Carolina, was awarded a National Science Foundation Graduate Research Fellowship, and is currently a Senior Software Engineer at Netflix.
+
+[Ben's LinkedIn Page](https://www.linkedin.com/in/bendmorris/)

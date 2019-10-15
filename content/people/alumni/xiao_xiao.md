@@ -28,4 +28,6 @@ caption = ""
 
 +++
 
-Xiao was a PhD student in the lab from 2008-2014, during which time she also complete an MS in statistics. Xiao is interested in general theories of macroecological patterns and is now a postdoc in Brian McGill's lab at the University of Maine.
+Xiao was a PhD student in the White lab from 2008-2014, during which time she also complete an MS in statistics. Xiao studied general theories of macroecological patterns and went on to do a postdoc in Brian McGill's lab at the University of Maine. She is currently a Staff Data Scienist at Intuit.
+
+[Xiao's LinkedIn Profile](https://www.linkedin.com/in/xiao-xiao-63620460/)
