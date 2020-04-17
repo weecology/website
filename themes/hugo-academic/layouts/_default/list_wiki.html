@@ -18,9 +18,12 @@
   {{ end }}
 
   {{ $paginator := .Paginate .Data.Pages }}
-  {{ range $paginator.Pages }}
+  {{ range .Pages.GroupByParam "category" }}
+  <h2>{{ .Key }}</h2>
   <div>
-    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    {{ range .Pages }}
+    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    {{ end }}
   </div>
   {{ end }}
 

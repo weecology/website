@@ -1,11 +1,6 @@
 +++
 title = "HiPerGator Intro Guide"
-
-tags = ["Computing"]
-
-[header]
-image = ""
-caption = ""
+category = "Computing"
 +++
 
 ## What is HiperGator?
