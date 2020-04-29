@@ -1,0 +1,36 @@
+{{ if .Params.widgets }}
+
+{{ partial "widget_page.html" . }}
+
+{{ else }}
+
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+{{ partial "header_image.html" . }}
+
+<div class="universal-wrapper">
+
+  {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
+
+  {{ with .Content }}
+  <div class="article-style" itemprop="articleBody">{{ . }}</div>
+  {{ end }}
+
+  {{ $paginator := .Paginate .Data.Pages }}
+  {{ range .Pages.GroupByParam "category" }}
+  <h2>{{ .Key }}</h2>
+  <div>
+    {{ range .Pages }}
+    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  {{ partial "pagination" . }}
+
+</div>
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}
+
+{{ end }}
