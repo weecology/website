@@ -6,7 +6,7 @@ date = "2016-04-21"
 title = "Andrew Zhang"
 
 # Project summary to display on homepage.
-summary = "Software developer; currently: software engineer at Instagram"
+summary = "Undergrad software developer; currently software engineer at Instagram"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "alumni/andrew-zhang.jpg"
