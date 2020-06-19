@@ -12,7 +12,7 @@ selected = false
 
 abstract = "Postdocs are a critical transition for early-career researchers. This transient period, between finishing a PhD and finding a permanent position, is when early-career researchers develop independent research programs and establish collaborative relationships that can make a successful career. Traditionally, postdocs physically relocate—sometimes multiple times—for these short-term appointments, which creates challenges that can disproportionately affect members of traditionally underrepresented groups in science, technology, engineering, and mathematics (STEM). However, many research activities involving analytical and quantitative work do not require a physical presence in a lab and can be accomplished remotely. Other fields have embraced remote work, yet many academics have been hesitant to hire remote postdocs. In this article, we present advice to both principal investigators (PIs) and postdocs for successfully navigating a remote position. Using the combined experience of the authors (as either remote postdocs or employers of remote postdocs), we provide a road map to overcome the real (and perceived) obstacles associated with remote work. With planning, communication, and creativity, remote postdocs can be a fully functioning and productive member of a research lab. Further, our rules can be useful for research labs generally and can help foster a more flexible and inclusive environment."
 
-projects = []
+projects = ["portal"]
 
 # Links (optional).
 url_custom = [{name = "HTML", url = " https://doi.org/10.1371/journal.pcbi.1007809"}]
