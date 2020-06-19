@@ -3,17 +3,17 @@
 date = "2016-04-21"
 
 # Project title.
-title = "Harshit Bansal"
+title = "Andrew Zhang"
 
 # Project summary to display on homepage.
-summary = "Student Software Developer"
+summary = "Software developer; currently: software engineer at Instagram"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "harshit-bansal.jpg"
+image_preview = "alumni/andrew-zhang.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ernest-lab", "white-lab"]`
-tags = ["white-lab"]
+tags = ["alumni"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -28,4 +28,6 @@ caption = ""
 
 +++
 
-Harshit is an Undergraduate Student, currently enrolled in Indian Institute of Technology, Roorkee. He has been selected in Google Summer of Code 2019 to work on the project [Extract scripts into a separate system](https://summerofcode.withgoogle.com/projects/#4930720059883520).
+Andrew did software development for the lab projects focused on making it easier and more efficient to work with data. Andrew is currently a software engineer at Instagram.
+
+Andrew's LinkedIn Page]( https://www.linkedin.com/in/zhangcandrew/)

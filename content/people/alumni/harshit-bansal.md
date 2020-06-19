@@ -1,19 +1,19 @@
 +++
 # Date this page was created.
-date = "2016-04-23"
+date = "2016-04-21"
 
 # Project title.
-title = "Hao Ye"
+title = "Harshit Bansal"
 
 # Project summary to display on homepage.
-summary = "Postdoc"
+summary = "Student Software Developer"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "hao-ye.jpg"
+image_preview = "alumni/harshit-bansal.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ernest-lab", "white-lab"]`
-tags = ["ernest-lab", "white-lab"]
+tags = ["alumni"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -28,6 +28,4 @@ caption = ""
 
 +++
 
-Hao's research centers around how ecosystems are changing through time, and the methods by which we can learn about the mechanisms and outcomes of change using time series data.
-
-[Hao's personal website](https://haoye.us)
+Harshit is an Undergraduate Student, enrolled at the Indian Institute of Technology, Roorkee. He was selected in the Google Summer of Code 2019 to work on the project [Extract scripts into a separate system](https://summerofcode.withgoogle.com/projects/#4930720059883520). 

@@ -9,11 +9,11 @@ title = "Shawn Taylor"
 summary = "PhD Student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "shawn-taylor.jpg"
+image_preview = "alumni/shawn-taylor.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ernest-lab", "white-lab"]`
-tags = ["white-lab"]
+tags = ["alumni"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

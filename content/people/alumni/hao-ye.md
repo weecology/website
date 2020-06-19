@@ -1,19 +1,20 @@
 +++
 # Date this page was created.
-date = "2016-04-21"
+date = "2016-04-23"
 
 # Project title.
-title = "Andrew Zhang"
+title = "Hao Ye"
 
 # Project summary to display on homepage.
-summary = "Software developer"
+summary = "Postdoc;  
+currently Reproducibility Librarian, University of Florida"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "andrew-zhang.jpg"
+image_preview = "hao-ye.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ernest-lab", "white-lab"]`
-tags = ["white-lab"]
+tags = ["alumni"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -28,6 +29,6 @@ caption = ""
 
 +++
 
-Andrew does software development for the lab projects focused on making it easier and more efficient to work with data. 
+Hao was a postdoc with both the Ernest and White labs and is now a Reprodcibility Librarian at the University of Florida. Hao's research centered around how ecosystems are changing through time, and the methods by which we can learn about the mechanisms and outcomes of change using time series data.
 
-Andrew's LinkedIn Page]( https://www.linkedin.com/in/zhangcandrew/)
+[Hao's personal website](https://haoye.us)

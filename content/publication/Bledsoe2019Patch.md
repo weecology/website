@@ -15,8 +15,8 @@ abstract = "Across landscapes, shifts in species composition often co‐occur wi
 projects = ["portal"]
 
 # Links (optional).
-url_custom = [{name = "HTML", url = " https://doi.org/10.1002/ecy.2869}]
-url_pdf = 
+url_custom = [{name = "HTML", url = "https://doi.org/10.1002/ecy.2869"}]
+url_pdf = ""
 url_preprint = "https://doi.org/10.1101/528935"
 url_code = ""
 
