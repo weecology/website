@@ -15,7 +15,7 @@ abstract = "Postdocs are a critical transition for early-career researchers. Thi
 projects = ["portal"]
 
 # Links (optional).
-url_custom = [{name = "HTML", url = " https://doi.org/10.1371/journal.pcbi.1007809"}]
+url_custom = [{name = "HTML", url = "https://doi.org/10.1371/journal.pcbi.1007809"}]
 url_pdf = "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007809&type=printable"
 url_preprint = "https://doi.org/10.1101/344804"
 url_code = ""
