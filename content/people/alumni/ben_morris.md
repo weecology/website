@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Ben Morris"
 
 # Project summary to display on homepage.
-summary = "Currently: Senior Software Engineer at Netflix. Weecology role: Undergrad Software developer"
+summary = "Currently: Senior Software Engineer at Netflix. Former Weecology Undergrad Software developer"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "alumni/ben_morris.jpeg"

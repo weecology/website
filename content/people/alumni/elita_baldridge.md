@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Elita Baldridge"
 
 # Project summary to display on homepage.
-summary = "Phd student"
+summary = "Currently: Owner, Tanglebriar Nubians. Former Weecology Phd student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "alumni/elita_baldridge.png"

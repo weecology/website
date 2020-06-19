@@ -6,7 +6,7 @@ date = "2016-04-21"
 title = "Apoorva Pandey"
 
 # Project summary to display on homepage.
-summary = "Currently: Software Engineer with Datapane. Weecology role: Undergrad Software Developer"
+summary = "Currently: Software Engineer with Datapane. Former Weecology Undergrad Software Developer"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "alumni/apoorva-pandey.png"

@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Dan McGlinn"
 
 # Project summary to display on homepage.
-summary = "Currently: Assistant Professor, College of Charleston. Weecology role: Postdoc"
+summary = "Currently: Assistant Professor, College of Charleston. Former Weecology Postdoc"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "alumni/dan_mcglinn.png"

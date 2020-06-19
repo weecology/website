@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Mikaelle Giffen"
 
 # Project summary to display on homepage.
-summary = "Undergraduate researcher"
+summary = "Currently: Data Science Intern, Recursion. Former Weecology Undergrad researcher"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "alumni/mikaelle_giffen.jpg"

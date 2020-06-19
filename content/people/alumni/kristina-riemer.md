@@ -6,7 +6,7 @@ date = "2016-04-22"
 title = "Kristina Riemer"
 
 # Project summary to display on homepage.
-summary = "PhD Student"
+summary = "Currently: Scientific Programmer, University of Arizona. Former Weecology PhD Student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "alumni/kristina-riemer.jpg"

@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Ken Locey"
 
 # Project summary to display on homepage.
-summary = "Postdoc"
+summary = "Currently: Data Science Analyst, Rush University Medical Center. Former Weecology PhD student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "alumni/ken_locey.jpeg"

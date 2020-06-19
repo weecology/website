@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "David J. Harris"
 
 # Project summary to display on homepage.
-summary = "Postdoc"
+summary = "Currently: Lead Data Scientist at Chewy. Former Weecology Postdoc"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "alumni/david_harris.jpg"

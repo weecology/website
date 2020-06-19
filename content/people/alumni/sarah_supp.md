@@ -6,10 +6,10 @@ date = "2016-04-27"
 title = "Sarah Supp"
 
 # Project summary to display on homepage.
-summary = "Phd student"
+summary = "Currently: Assistant Professor, Denison University. Former Weecology Phd student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "alumni/sarah_mohlman.jpeg"
+image_preview = "alumni/sarah_supp.jpeg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ernest-lab", "white-lab"]`

@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Kate Thibault"
 
 # Project summary to display on homepage.
-summary = "Postdoc"
+summary = "Currently: Lead Research Scientist, NEON. Former Weecology Postdoc"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "alumni/kate_thibault.jpg"
