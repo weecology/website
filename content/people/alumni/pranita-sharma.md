@@ -6,7 +6,7 @@ date = "2016-04-21"
 title = "Pranita Sharma"
 
 # Project summary to display on homepage.
-summary = "Student Software Developer"
+summary = "Currently: Software Engineer, Bloomberg. Former Weecology Undergrad Software Developer"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "alumni/psharma.jpg"
