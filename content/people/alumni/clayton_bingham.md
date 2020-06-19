@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Clayton Bingham"
 
 # Project summary to display on homepage.
-summary = "Undergraduate researcher"
+summary = "Currently: Postdoc at Case Western Reserve. Weecology role: Undergraduate researcher"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "alumni/clayton_bingham.jpg"

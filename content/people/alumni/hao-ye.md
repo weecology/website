@@ -6,7 +6,7 @@ date = "2016-04-23"
 title = "Hao Ye"
 
 # Project summary to display on homepage.
-summary = "Postdoc; currently Reproducibility Librarian, University of Florida"
+summary = "Currently: Reproducibility Librarian, University of Florida. Weecology role: Postdoc"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "hao-ye.jpg"

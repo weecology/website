@@ -6,7 +6,7 @@ date = "2016-04-22"
 title = "Shawn Taylor"
 
 # Project summary to display on homepage.
-summary = "PhD Student; currently postdoc at USDA-ARS"
+summary = "Currently: postdoc at USDA-ARS. Weecology role: PhD student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "alumni/shawn-taylor.jpg"
