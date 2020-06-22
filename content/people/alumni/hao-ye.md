@@ -9,7 +9,7 @@ title = "Hao Ye"
 summary = "Currently: Reproducibility Librarian, University of Florida. Former Weecology Postdoc"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "hao-ye.jpg"
+image_preview = "alumni/hao-ye.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ernest-lab", "white-lab"]`
