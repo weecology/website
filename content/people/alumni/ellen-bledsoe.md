@@ -13,7 +13,7 @@ image_preview = "ellen-bledsoe.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ernest-lab", "white-lab"]`
-tags = ["ernest-lab"]
+tags = ["alumni"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
