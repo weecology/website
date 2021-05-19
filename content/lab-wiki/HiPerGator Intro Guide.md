@@ -1,8 +1,8 @@
-+++
-title = "HiPerGator Intro Guide"
-category = "Computing"
-toc = true
-+++
+---
+title: "HiPerGator Intro Guide"
+category: "Computing"
+toc: true
+---
 
 ## What is HiperGator?
 
