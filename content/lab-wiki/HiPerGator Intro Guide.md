@@ -1,7 +1,7 @@
 +++
 title = "HiPerGator Intro Guide"
 category = "Computing"
-toc: true
+toc = true
 +++
 
 ## What is HiperGator?
