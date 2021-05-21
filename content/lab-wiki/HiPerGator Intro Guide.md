@@ -4,6 +4,8 @@ category = "Computing"
 toc = true
 +++
 
+{{% toc %}}
+
 ## What is HiperGator?
 
 A University of Florida super-computing cluster. 
