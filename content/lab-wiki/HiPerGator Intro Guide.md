@@ -1,6 +1,7 @@
 +++
 title = "HiPerGator Intro Guide"
 category = "Computing"
+toc = true
 +++
 
 
