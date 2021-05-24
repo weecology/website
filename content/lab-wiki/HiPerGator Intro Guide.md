@@ -1,10 +1,8 @@
 +++
 title = "HiPerGator Intro Guide"
 category = "Computing"
-toc = true
 +++
 
-{{% toc %}}
 
 ## What is HiperGator?
 
