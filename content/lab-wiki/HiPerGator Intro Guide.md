@@ -119,7 +119,9 @@ Going from single system parallel processing to distributed computing with your 
 Newer packages are available which either deal with MPI in the background for you, or implement newer protocols. The R package [batchtools](https://mllg.github.io/batchtools/index.html) has many high end functions for distributed computing. The python package [dask](https://docs.dask.org/) is a state of the art package for distributed computing, and the accompanying [jobqueue](https://jobqueue.dask.org) package integrates it with SLURM and other HPC schedulers. 
 
 ## Other considerations and important points
-The Research Computing group has a [wiki on HiperGator usage](https://help.rc.ufl.edu/doc/UFRC_Help_and_Documentation).
+The Research Computing group has a [wiki on HiperGator usage](https://help.rc.ufl.edu/doc/UFRC_Help_and_Documentation).  
+
+Some common tasks and scripts are outlind in the [HiPerGator Reference Guide](/lab-wiki/hipergator-reference-guide/)
 
 **Login Node**: When you sign into the HPC there is a single landing server which you’ll start on. It’s important to never run actual scripts on this initial server. It should be used to submit jobs, request development nodes or interactive sessions, or transfer data in or out.  
 

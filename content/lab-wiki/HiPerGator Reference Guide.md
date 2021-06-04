@@ -5,11 +5,7 @@ category = "Computing"
 
 ## What is HiperGator?
 
-A University of Florida super-computing cluster. 
-
-## Why should I use it?
-
-HiperGator gives the user access to very large processing/memory/storage. This is useful for projects which can't be run on your local laptop.
+A University of Florida super-computing cluster which gives useres access to large amounts of processing, memory, and storage. Read more in the [HiperGator Intro Guide](/lab-wiki/hipergator-intro-guide/)  
 
 ## How do I access it?
 
