@@ -67,6 +67,8 @@ A high performance cluster (HPC) is primarily two things.
 5. **You need to ensure you have the correct packages.**  
     Most HPC systems will have common packages installed and ready to use. If not you’ll have to install them yourself. If you do this then the latest versions will be installed on the HPC, so it’s good practice to make sure all packages on your personal computer are up to date to so they match (in RStudio use Tools-> Check for package updates, in python use conda or pip to update all package to the latest version).
     For python packages for your projects you’ll want to use environments with either conda or python virtual environments.  
+    
+    If you run into errors installing R or python packages you'll likely need to contact HPC support for help, especially if the errors involve missing system libraries. If you successfully install your own packages they will only be available to you, and not to anyone else using the HPC.  
 
     Also take note of the [module](https://help.rc.ufl.edu/doc/Modules_Basic_Usage) command on the HiperGator. This is used to load preloaded software, including R and python themselves. This is covered is most tutorials about batch scripts (see next section).
 
