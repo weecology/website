@@ -11,7 +11,8 @@ This guide gives a high level overview of how one goes about running R or python
 This is written for users of the [UFL HiperGator](https://www.rc.ufl.edu/services/hipergator/) who code in R or python, but most information will apply to potential users for any HPC system and with any scripting language.
 
 ## HPC Use cases
-There are two scenarios where you may want to run your analysis script on the HPC. 
+There are two scenarios where you may want to run your analysis script on the HPC.  
+
 1. **Your code takes a very long time to run**  
 If your code is taking several hours, days or more to run on your personal computer then using an HPC is likely a good option for two reasons. One is the servers on an HPC have processors much faster than desktops and laptops, so with minimal changes your code will run significantly faster. Second is scripts on an HPC run independently of your personal computer, so you can shutdown your personal computer while the script on the HPC runs overnight or over the weekend. HPC systems can have a time limit of several weeks to a month for any single job.  
 If your script takes so long that it seems like it will never finish then an HPC can be especially beneficial. Say you do a test run on 1% of your data and it takes 2 days to run. Theoretically it will then take 200 days to run on your full dataset. In this case the benefit of the HPC is its parallel processing power.  
@@ -31,7 +32,8 @@ Whether it’s worth it or not is unique to every situation. Also remember that 
 Also consider that the two use cases described above might also be solvable by code optimization. If you can find a section of code which is slow and make it run fast enough to meet your needs, that is preferable over running the code on an HPC. There is no one solution to this, but a good starting point is Hadley Wickham’s Advanced R tutorial on [Performance and Profiling](http://adv-r.had.co.nz/Performance.html). This [45 minute video](https://youtu.be/K_90QGUPYCA) also gives a great overview of profiling, optimization, parallel processing, and the implications in R. 
 
 ## What exactly is an HPC?
-A high performance cluster (HPC) is primarily two things. 
+A high performance cluster (HPC) is primarily two things.  
+
 1. It’s hundreds of individual servers in a data center. Each server is a computer just like your personal computer, but has more powerful components, and does not have a graphical user interface or even a monitor. You interact with the servers via the command line. If you’ve never used the command line consider it like the Rstudio console, or a python prompt, was your *only* way to interact with a computer. More on this below. 
 
 2. It’s a system for scheduling, prioritizing, and running scripts from hundreds of users. This is how the hundreds of servers can be used as “one”. Access to them is controlled by scheduling programs which you interact with, which then put your scripts in a queue to be run when resources are free. Slurm is probably the most popular scheduler (and the one used on the HiperGator) but some HPC systems may use other ones like [PBS or MOAB](https://en.wikipedia.org/wiki/Job_scheduler#Batch_queuing_for_HPC_clusters).
