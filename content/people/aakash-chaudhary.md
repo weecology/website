@@ -1,12 +1,12 @@
 +++
 # Date this page was created.
-date = "2021-07-16"
+date = "2016-04-22"
 
 # Project title.
 title = "Aakash Chaudhary"
 
 # Project summary to display on homepage.
-summary = "GSoC'21 Student Software Developer"
+summary = "Undergrad Software Developer"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "aakash-chaudhary.jpg"
