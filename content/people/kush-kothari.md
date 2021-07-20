@@ -32,4 +32,4 @@ Kush is an Undergraduate Student in Computer Engineering at Veermata Jijabai Ins
 
 [Kush's LinkedIn page](https://www.linkedin.com/in/kush-kothari-ba013218b/)
 
-[Kush's Github page](https://github.com/weecology/retriever)
+[Kush's Github page](https://github.com/kkothari2001)
