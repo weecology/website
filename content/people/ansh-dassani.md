@@ -9,7 +9,7 @@ title = "Ansh Dassani"
 summary = "Undergrad Software Developer"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "ansh-dassani.jpg"
+image_preview = "ansh-dassani.jpeg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ernest-lab", "white-lab"]`
