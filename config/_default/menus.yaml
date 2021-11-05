@@ -16,6 +16,12 @@ main:
   - name: Publications
     url: publication
     weight: 50
+  - name: Teaching
+    url: teaching
+    weight: 60
+  - name: Lab Wiki
+    url: lab-wiki
+    weight: 70
   - name: Contact
     url: contact
-    weight: 60
+    weight: 80

@@ -1,6 +1,6 @@
 ---
 # Display name
-title:  "  S.K. Morgan Ernest"
+title:  "   S.K. Morgan Ernest"
 
 # Is this the primary user of the site?
 superuser: true
