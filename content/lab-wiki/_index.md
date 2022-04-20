@@ -1,19 +1,14 @@
-+++
-title = "Lab Wiki"
-date = 2020-01-01
-active = true
-highlight = false
-layout = "list_wiki"
+---
+title: Lab Wiki
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
 
-# Organize by tags
-tags = ["Lab Policies", "Computing"]
-
-+++
-
-
-
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ""
+  image: ""
+---
