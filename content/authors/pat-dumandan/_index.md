@@ -53,7 +53,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ernest-lab
+- Graduate Students
 ---
 
 Pat is interested in employing trait-based approaches to understand and predict patterns in ecological systems.

@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
+title: 
 subtitle:
 
 content:
@@ -17,8 +17,9 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - Principal Investigators
-  - Ernest-lab
-  - White-lab
+  - Staff
+  - Graduate Students
+  - Undergraduates
   - Researchers
   - Grad Students
   - Administration

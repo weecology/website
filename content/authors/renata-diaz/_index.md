@@ -48,7 +48,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ernest-lab
+- Graduate Students
 ---
 
 Renata studies community ecology using feasible set and maximum entropy based approaches.

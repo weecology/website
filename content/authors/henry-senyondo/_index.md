@@ -45,7 +45,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- White-lab
+- Staff
 ---
 
 Henry leads software development in the group with a focus on projects that make it easier and more efficient for scientists to obtain and work with data.
