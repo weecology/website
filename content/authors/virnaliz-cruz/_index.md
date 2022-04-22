@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cruz-Hernández, Virnaliz
+title: Virnaliz Cruz-Hernández
 
 # Role/position
 role: PhD Student
