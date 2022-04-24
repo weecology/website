@@ -3,7 +3,7 @@
 title: Mikaelle Giffin
 
 # Role/position
-role: Currently **Associate Toxicologist, Medical Device Consultant at Nelson Labs**. Former Weecology Undergrad researcher
+role: Currently **Toxicologist at Nelson Labs**. Weecology Undergrad Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: https://www.usu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently Associate Toxicologist, Medical Device Consultant at Nelson Labs. Former Weecology Undergrad researcher
+bio: Currently **Toxicologist at Nelson Labs**. Weecology Undergrad Researcher
 
 education:
   courses:

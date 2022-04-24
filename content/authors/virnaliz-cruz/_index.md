@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cruz-Hernández, Virnaliz
+title: Virnaliz Cruz-Hernández
 
 # Role/position
 role: PhD Student
@@ -51,7 +51,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- White-lab
+- Graduate Students
 ---
 
 Virnaliz is interested in the intersection of disease ecology and data science.

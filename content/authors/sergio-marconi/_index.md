@@ -3,7 +3,7 @@
 title: Sergio Marconi
 
 # Role/position
-role: Currently, **Postdoc at University of Florida**. Former Weecology PhD Student
+role: Currently **Postdoc at University of Florida**. Weecology PhD
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: https://www.weecology.org
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently, Postdoc at University of Florida. Former Weecology PhD Student
+bio: Currently Postdoc at University of Florida. Weecology PhD
 
 interests:
 - Quantitative Ecology

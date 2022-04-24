@@ -3,7 +3,7 @@
 title: Pranita Sharma
 
 # Role/position
-role: Currently, **Software Engineer, Bloomberg**. Former Weecology Undergrad Software Developer, GSoC
+role: Currently **Software Engineer at Bloomberg**. Weecology Google Summer of Code Student
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: https://www.ncsu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently, **Software Engineer, Bloomberg**. Former Weecology Undergrad Software Developer
+bio: Currently **Software Engineer at Bloomberg**. Weecology Google Summer of Code Student
 
 education:
   courses:

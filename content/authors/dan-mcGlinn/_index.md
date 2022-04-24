@@ -3,7 +3,7 @@
 title: Dan McGlinn
 
 # Role/position
-role: Currently, Assistant Professor, **College of Charleston**. Former Weecology Postdoc
+role: Currently **Associate Professor at College of Charleston**. Weecology Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: https://www.ufl.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently, Assistant Professor, **College of Charleston**. Former Weecology Postdoc
+bio: Currently **Associate Professor at College of Charleston**. Weecology Postdoc
 
 # Project summary to display on homepage.
 # summary : ""
@@ -29,7 +29,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:mcglinndj@cofc.edu'
-- icon: envelope
+- icon: home
   icon_pack: fas
   link: https://www.mcglinnlab.org
 - icon: google-scholar

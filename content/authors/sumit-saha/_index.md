@@ -3,7 +3,7 @@
 title: Sumit Saha
 
 # Role/position
-role: Currently, **Data Scientist at Squad**. Former Weecology Undergrad Software Developer
+role: Currently **Data Scientist at SquadStack**. Weecology Undergrad Software Developer
 
 # Organizations/Affiliations
 organizations:
@@ -11,10 +11,10 @@ organizations:
   url: https://vit.ac.in
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently, **Data Scientist at Squad**. Former Weecology Undergrad Software Developer
+bio: Currently **Data Scientist at SquadStack**. Weecology Undergrad Software Developer
 
 # Project summary to display on homepage.
-# summary : "Currently, **Data Scientist at Squad**. Former Weecology Undergrad Software Developer"
+# summary : "Currently **Data Scientist at Squad**. Former Weecology Undergrad Software Developer"
 
 
 # interests:

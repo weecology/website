@@ -3,7 +3,7 @@
 title: Clayton Bingham
 
 # Role/position
-role: Currently, **Postdoctoral Researcher at Duke University**. Former Weecology Undergrad researcher
+role: Currently **Postdoc at Duke University**. Weecology Undergrad Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: https://www.usu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently, Postdoctoral Researcher at **Duke University**. Former Weecology Undergrad researcher
+bio: Currently Postdoc at **Duke University**. Weecology Undergrad Researcher
 
 # Project summary to display on homepage.
 # summary : ""

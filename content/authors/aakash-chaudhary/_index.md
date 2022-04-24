@@ -3,7 +3,7 @@
 title: Aakash Chaudhary
 
 # Role/position
-role: Currently Undergrad software developer
+role: Google Summer of Code Student
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: "http://ducic.ac.in"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently Undergrad software developer
+bio: Undergrad software developer
 
 education:
   courses:
@@ -36,7 +36,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- White-lab
+- Undergraduates
 ---
 
 Aakash is an Undergraduate Student in Computer Science at Cluster Innovation Centre, Delhi. He has been selected in Google Summer of Code 2021 to work on the project [Support for Login/API](https://summerofcode.withgoogle.com/projects/#4609055466717184). The goal of this project is to find sources of public Data which require a Login/API key to access the data like Socrata API and integrate them into Data Retriever.

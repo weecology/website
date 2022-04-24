@@ -3,7 +3,7 @@
 title: Apoorva Pandey
 
 # Role/position
-role: Currently, **Software Engineer with Datapane**. Former Weecology Undergrad Software Developer
+role: Currently **Software Engineer at Datapane**. Weecology Google Summer of Code Student
 
 # Organizations/Affiliations
 organizations:
@@ -11,10 +11,10 @@ organizations:
   url: http://ducic.ac.in
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently, Software Engineer with **Datapane**. Former Weecology Undergrad Software Developer
+bio: Currently **Software Engineer at Datapane**. Weecology Google Summer of Code Student
 
 # Project summary to display on homepage.
-summary : Currently, Software Engineer with Datapane. Former Weecology Undergrad Software Developer
+summary : Currently **Software Engineer at Datapane**. Weecology Google Summer of Code Student
 
 education:
   courses:

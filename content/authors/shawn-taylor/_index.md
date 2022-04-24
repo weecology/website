@@ -3,7 +3,7 @@
 title: Shawn Taylor
 
 # Role/position
-role: Currently, Postdoc Ecologist at the **USDA-ARS Jornada Experimental Range**. Former Weecology PhD Student
+role: Currently **GIS Analyst at Cargill**. Weecology PhD
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: https://www.weecology.org
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently, Postdoc Ecologist at the **USDA-ARS Jornada Experimental Range**. Former Weecology PhD Student
+bio: Currently **GIS Analyst at Cargill**. Weecology PhD
 
 interests:
 - plants

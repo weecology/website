@@ -14,7 +14,7 @@ organizations:
 bio: Manages the day-to-day fieldwork and trains seasonal research crew members
 
 # Project summary to display on homepage.
-# summary : "Currently: Software Development Engineer, Amazon Lab126. Former Undergrad Software Developer ......."
+# summary : "Currently: Software Development Engineer, Amazon Lab126. Undergrad Software Developer ......."
 
 interests:
 - Community Ecology
@@ -56,7 +56,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ernest-lab
+- Staff
 ---
 
 Lindsey manages and coordinates the Everglades research project.

@@ -3,7 +3,7 @@
 title: Kate Thibault
 
 # Role/position
-role: Currently, **Lead Research Scientist, NEON**. Former Weecology Postdoc
+role: Currently **Science Lead at the National Ecological Observatory Network**. Weecology Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: https://www.usu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently, Lead Research Scientist, NEON. Former Weecology Postdoc
+bio: Currently **NEON Science Lead at Battelle**. Weecology Postdoc
 
 # interests:
 # - Ecological Dynamics

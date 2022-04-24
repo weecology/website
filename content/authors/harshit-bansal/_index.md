@@ -3,7 +3,7 @@
 title: Harshit Bansal
 
 # Role/position
-role: Google Summer of Code intern
+role: Currently **Analyst at Goldman Sachs**. Weecology Google Summer of Code Student
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: http://ducic.ac.in
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently Undergrad. Former Weecology Undergrad Software Developer
+bio: Currently **Analyst at Goldman Sachs**. Weecology Google Summer of Code Student
 
 education:
   courses:

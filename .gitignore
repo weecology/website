@@ -1,4 +1,5 @@
 *.Rproj
 public/
+resources/_gen/
 .Rproj.user/
 .Rproj.user

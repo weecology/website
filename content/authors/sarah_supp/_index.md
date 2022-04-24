@@ -3,7 +3,7 @@
 title: Sarah Supp
 
 # Role/position
-role: Currently **Assistant Professor, Denison University**. Former Weecology Phd student
+role: Currently **Assistant Professor at Denison University**. Weecology PhD
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: https://www.usu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently **Assistant Professor, Denison University**. Former Weecology Phd student
+bio: Currently **Assistant Professor at Denison University**. Weecology PhD
 
 education:
   courses:
@@ -23,6 +23,9 @@ education:
     year: 2007
 
 social:
+- icon: home
+  icon_pack: fas
+  link: https://sarahsupp.org/
 - icon: envelope
   icon_pack: fas
   link: 'mailto:sarah@weecology.org'
