@@ -14,7 +14,7 @@ organizations:
 bio: Manages the day-to-day fieldwork and trains seasonal research crew members
 
 # Project summary to display on homepage.
-# summary : "Currently: Software Development Engineer, Amazon Lab126. Former Undergrad Software Developer ......."
+# summary : "Currently: Software Development Engineer, Amazon Lab126. Undergrad Software Developer ......."
 
 interests:
 - Community Ecology

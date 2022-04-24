@@ -3,7 +3,7 @@
 title: Ben Morris
 
 # Role/position
-role: Currently **Senior Software Engineer at Netflix**. Former Weecology Undergrad Software developer
+role: Currently **Senior Software Engineer at Netflix**. Weecology Undergrad Software Developer
 
 # Organizations/Affiliations
 organizations:
@@ -11,10 +11,10 @@ organizations:
   url: https://www.usu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently, Senior Software Engineer at Netflix. Former Weecology Undergrad Software developer
+bio: Currently Senior Software Engineer at Netflix. Weecology Undergrad Software Developer
 
 # Project summary to display on homepage.
-summary : Currently, Senior Software Engineer at Netflix. Former Weecology Undergrad Software developer
+summary : Currently Senior Software Engineer at Netflix. Weecology Undergrad Software Developer
 
 education:
   courses:

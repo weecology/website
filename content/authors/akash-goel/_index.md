@@ -3,7 +3,7 @@
 title: Akash Goel
 
 # Role/position
-role: Currently **Software Development Engineer Amazon**. Former Undergrad Software Developer
+role: Currently **Software Engineer at Amazon**. Weecology Google Summer of Code Student
 
 # Organizations/Affiliations
 organizations:
@@ -11,10 +11,10 @@ organizations:
   url: http://ducic.ac.in
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently SDE, Amazon Web Services
+bio: Currently **Software Engineer at Amazon**. Weecology Google Summer of Code Student
 
 # Project summary to display on homepage.
-summary : "Currently Software Development Engineer, Amazon. Former Undergrad Software Developer"
+summary : Currently **Software Engineer at Amazon**. Weecology Google Summer of Code Student
 
 education:
   courses:

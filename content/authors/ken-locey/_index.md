@@ -3,7 +3,7 @@
 title: Ken Locey
 
 # Role/position
-role: Currently, **Senior Clinical Data Scientist, Rush University Medical Center**. Former Weecology PhD student
+role: Currently **Senior Clinical Data Scientist at Rush University Medical Center**. Weecology PhD
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: https://www.usu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently, **Senior Clinical Data Scientist, Rush University Medical Center**. Former Weecology PhD student
+bio: Currently **Senior Clinical Data Scientist at Rush University Medical Center**. Weecology PhD
 
 # interests:
 # - Time Series Analysis

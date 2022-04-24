@@ -3,7 +3,7 @@
 title: David J. Harris
 
 # Role/position
-role: Currently, **Lead Data Scientist at Chewy**. Former Weecology Postdoc
+role: Currently **Lead Data Scientist at Chewy**. Weecology Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: https://www.ufl.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently, Lead Data Scientist at Chewy. Former Weecology Postdoc
+bio: Currently Lead Data Scientist at Chewy. Weecology Postdoc
 
 # Project summary to display on homepage.
 # summary : ""
@@ -26,9 +26,9 @@ education:
     year: 2008
 
 social:
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/in/davidjayharris
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/davidjayharris/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=7soQ0VAAAAAJ&hl=en

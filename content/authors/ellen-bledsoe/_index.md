@@ -3,7 +3,7 @@
 title: Ellen Bledsoe
 
 # Role/position
-role: Currently **University of Arizona, UASNRE**, Former PhD Student
+role: Currently **Assistant Professor of Practice at University of Arizona**, Weecology PhD
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: https://www.ufl.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently **University of Arizona, UASNRE** as an Asst. Prof of Practice teaching data science
+bio: Currently **Assistant Professor University of Arizona**, Weecology PhD
 
 # Project summary to display on homepage.
 # summary : ""

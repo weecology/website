@@ -3,7 +3,7 @@
 title: Aakash Chaudhary
 
 # Role/position
-role: Currently Undergrad software developer
+role: Google Summer of Code Student
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: "http://ducic.ac.in"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently Undergrad software developer
+bio: Undergrad software developer
 
 education:
   courses:

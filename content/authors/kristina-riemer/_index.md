@@ -3,7 +3,7 @@
 title: Kristina Riemer
 
 # Role/position
-role: Currently **Scientific Programmer, University of Arizona**. Former Weecology PhD Student
+role: Currently **Scientific Programmer at University of Arizona**. Weecology PhD
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: https://www.weecology.org
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently Scientific Programmer, University of Arizona. Former Weecology PhD Student
+bio: Currently **Scientific Programmer at University of Arizona**. Weecology PhD
 
 interests:
 - computational ecology
@@ -30,6 +30,9 @@ education:
     year: 2012
 
 social:
+- icon: home
+  icon_pack: fas
+  link: https://kristinariemer.github.io/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/kristina-riemer-data

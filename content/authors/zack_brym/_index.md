@@ -3,7 +3,7 @@
 title: Zack Brym
 
 # Role/position
-role: Currently, **Assistant Professor Agroecology, University of Florida**. Former Weecology PhD Student
+role: Currently **Assistant Professor at University of Florida**. Weecology PhD
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: https://www.usu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently, **Assistant Professor Agroecology, University of Florida**. Former Weecology PhD Student
+bio: Currently **Assistant Professor at University of Florida**. Weecology PhD
 
 interests:
 - crop physiology

@@ -3,7 +3,7 @@
 title: Erica Christensen
 
 # Role/position
-role: Currently **Postdoc at USDA-ARS Jornada Experimental Range** Former PhD Student
+role: Currently **Postdoc at USDA-ARS Jornada Experimental Range** Weecology PhD
 
 # Organizations/Affiliations
 organizations:
@@ -11,10 +11,10 @@ organizations:
   url: https://www.ufl.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently **Postdoc at USDA-ARS Jornada Experimental Range** Former PhD Studen
+bio: Currently **Postdoc at USDA-ARS Jornada Experimental Range** Weecology PhD
 
 # Project summary to display on homepage.
-summary : "Currently **Postdoc at USDA-ARS Jornada Experimental Range** Former PhD Studen"
+summary : "Currently **Postdoc at USDA-ARS Jornada Experimental Range** Weecology PhD"
 
 interests:
 - Computational Ecology

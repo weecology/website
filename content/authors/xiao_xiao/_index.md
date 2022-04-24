@@ -3,7 +3,7 @@
 title: Xiao Xiao
 
 # Role/position
-role: Currently, **Senior Machine Learning Engineer Instacart**. Former Weecology PhD student
+role: Currently **Senior Machine Learning Engineer at Instacart**. Weecology PhD
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: https://www.usu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently, Senior Machine Learning Engineer Instacart. Former Weecology PhD student
+bio: Currently Senior Machine Learning Engineer at Instacart. Weecology PhD
 
 # interests:
 # - Time Series Analysis

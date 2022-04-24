@@ -3,7 +3,7 @@
 title: Shivam Negi
 
 # Role/position
-role: Currently, **MS Security Informatics @ Johns Hopkins University | Ex Samsung** R&D. Former Weecology Undergrad
+role: Currently **MS Student at Johns Hopkins University**. Weecology Google Summer of Code Student
 
 # Organizations/Affiliations
 organizations:
@@ -11,10 +11,10 @@ organizations:
   url: https://manipal.edu/mit.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently, MS Security Informatics @ Johns Hopkins University | Ex Samsung R&D. Former Weecology Undergrad Software Developer
+bio: Currently MS Security Informatics @ Johns Hopkins University | Ex Samsung R&D. Former Weecology Undergrad Software Developer
 
 # Project summary to display on homepage.
-# summary : "Currently, MS Security Informatics @ Johns Hopkins University | Ex Samsung R&D. Former Weecology Undergrad"
+# summary : "Currently MS Security Informatics @ Johns Hopkins University | Ex Samsung R&D. Former Weecology Undergrad"
 
 
 # interests:

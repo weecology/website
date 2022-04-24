@@ -11,7 +11,7 @@ organizations:
   url: https://www.weecology.org
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently, Reproducibility Librarian, University of Florida. Former Weecology Postdoc
+bio: Currently Reproducibility Librarian, University of Florida. Weecology Postdoc
 
 # interests:
 # - Time Series Analysis

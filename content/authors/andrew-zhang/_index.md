@@ -3,7 +3,7 @@
 title: Andrew Zhang
 
 # Role/position
-role: Currently **software engineer at Instagram**. Former Weecology Undergrad software developer
+role: Currently **Software Engineer at Instagram**. Weecology Undergrad Software Developer
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: https://www.ufl.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently software engineer at Instagram. Former Weecology Undergrad software developer
+bio: Currently **Software Engineer at Instagram**. Weecology Undergrad Software Developer
 
 education:
   courses:

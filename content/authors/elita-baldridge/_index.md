@@ -3,7 +3,7 @@
 title: Elita Baldridge
 
 # Role/position
-role: Currently, Owner, Tanglebriar Nubians. Former Weecology Phd student
+role: Currently **Owner of Tanglebriar Nubians**. Weecology PhD
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: https://www.usu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently, Owner, Tanglebriar Nubians. Former Weecology Phd student
+bio: Currently **Owner of Tanglebriar Nubians**. Weecology PhD
 
 # Project summary to display on homepage.
 # summary : ""
@@ -30,6 +30,9 @@ education:
     year: 2015
 
 social:
+- icon: home
+  icon_pack: fa
+  link: http://tanglebriar.com/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=tF8jwvwAAAAJ&hl=en

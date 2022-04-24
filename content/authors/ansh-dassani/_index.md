@@ -3,7 +3,7 @@
 title: Ansh Dassani
 
 # Role/position
-role: Currently Undergrad software developer
+role: Google Summer of Code Student
 
 # Organizations/Affiliations
 organizations:
@@ -11,10 +11,10 @@ organizations:
   url: http://ducic.ac.in
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently Undergrad software developer
+bio: Google Summer of Code Student
 
 # Project summary to display on homepage.
-summary : Currently Undergrad software developer
+summary: Google Summer of Code Student
 
 education:
   courses:

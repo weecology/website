@@ -3,7 +3,7 @@
 title: Kari Norman
 
 # Role/position
-role: Currently **PhD student, UC Berkeley**. Former Weecology Undergraduate researcher
+role: Currently **Postdoctoral Fellow, Université de Montréal**. Weecology Undergrad Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: https://www.usu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently, PhD student, UC Berkeley. Former Weecology Undergraduate researcher
+bio: Currently **Postdoctoral Fellow, Université de Montréal**. Weecology Undergrad Researcher
 
 # interests:
 # - Ecological Dynamics
@@ -25,6 +25,9 @@ education:
     year: 2016
 
 social:
+- icon: home
+  icon_pack: fas
+  link: http://karieanorman.weebly.com/
 - icon: envelope
   icon_pack: fas
   link: 'mailto:kari.norman@berkeley.edu'

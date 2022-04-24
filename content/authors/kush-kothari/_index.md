@@ -3,7 +3,7 @@
 title: Kush Kothari
 
 # Role/position
-role: Google Summer of Code intern
+role: Currently **Undergraduate at Veermata Jijabai Technological Institute** Weecology Google Summer of Code Student
 
 # Organizations/Affiliations
 organizations:
