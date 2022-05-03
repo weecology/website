@@ -19,3 +19,9 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+[[redirects]]
+  from = "/lab-wiki/hipergator-intro-guide/hipergator-intro-guide"
+  to = "https://wiki.weecology.org/docs/computers-and-programming/hipergator-intro-guide/"
+  status = 308
+  force = true
