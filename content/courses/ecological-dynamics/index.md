@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Eco Dynamics & Forecasting"
-summary: "A university course (and open educational resource) on how understand and forecast how ecosystems change through time"
-authors: ["Ethan White", "Morgan Ernest"]
+title: "Dynamics & Forecasting"
+summary: "A university course & open educational resource on understanding and forecasting how ecosystems change through time"
 tags: ["teaching"]
 categories: []
 date: 2021-10-25T15:04:31-04:00
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
