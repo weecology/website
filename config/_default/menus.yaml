@@ -20,7 +20,7 @@ main:
     url: teaching
     weight: 60
   - name: Lab Wiki
-    url: lab-wiki
+    url: https://wiki.weecology.org/
     weight: 70
   - name: Contact
     url: contact
