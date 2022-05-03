@@ -23,5 +23,5 @@
 [[redirects]]
   from = "https://www.weecology.org/lab-wiki/hipergator-intro-guide"
   to = "https://wiki.weecology.org/docs/computers-and-programming/hipergator-intro-guide"
-  status = 308
+  status = 301
   force = true
