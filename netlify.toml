@@ -21,7 +21,7 @@
     debug = true
 
 [[redirects]]
-  from = "https://www.weecology.org/lab-wiki/hipergator-intro-guide/hipergator-intro-guide"
-  to = "https://wiki.weecology.org/docs/computers-and-programming/hipergator-intro-guide/"
+  from = "https://www.weecology.org/lab-wiki/hipergator-intro-guide"
+  to = "https://wiki.weecology.org/docs/computers-and-programming/hipergator-intro-guide"
   status = 308
   force = true
