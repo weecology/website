@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Data Carpentry for Biologists"
-summary: "A university course (and open educational resource) on using R for data manipulation, visualization, programming, and databases."
-authors: ["Ethan White"]
+title: "Data Carpentry"
+summary: "A university course & open educational resource using R for data manipulation, visualization, & programming."
 tags: ["teaching"]
 categories: []
 date: 2021-10-25T15:04:31-04:00
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

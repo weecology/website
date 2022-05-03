@@ -2,11 +2,11 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Biodiversity"
-summary: "A university course (and open educational resource) on introducing the major patterns and processes of biodiversity"
-authors: ["Morgan Ernest"]
+summary: "A university course & open educational resource on introducing the major patterns and processes of biodiversity"
 tags: ["teaching"]
 categories: []
 date: 2021-10-25T15:04:31-04:00
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
