@@ -27,7 +27,19 @@
   force = true
 
 [[redirects]]
+  from = "https://www.weecology.org/lab-wiki/hipergator-intro-guide/hipergator-intro-guide"
+  to = "https://wiki.weecology.org/docs/computers-and-programming/hipergator-intro-guide"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "https://www.weecology.org/lab-wiki/hipergator-reference-guide"
+  to = "https://wiki.weecology.org/docs/computers-and-programming/hipergator-reference"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.weecology.org/lab-wiki/hipergator-reference-guide/hipergator-reference-guide"
   to = "https://wiki.weecology.org/docs/computers-and-programming/hipergator-reference"
   status = 301
   force = true
