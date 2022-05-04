@@ -7,6 +7,8 @@ authors: []
 tags: ["software"]
 categories: []
 date: 2021-10-25T15:04:31-04:00
+show_date: false
+profile: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
