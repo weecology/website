@@ -7,11 +7,11 @@ main:
   - name: Home
     url:
     weight: 10
-  - name: Projects
-    url: projects
-    weight: 20
   - name: People
     url: people
+    weight: 20
+  - name: Research
+    url: research
     weight: 30
   - name: Software
     url: software
