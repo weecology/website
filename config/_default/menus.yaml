@@ -13,6 +13,9 @@ main:
   - name: People
     url: people
     weight: 30
+  - name: Software
+    url: software
+    weight: 40
   - name: Data
     url: data
     weight: 50
@@ -24,7 +27,7 @@ main:
     weight: 70
   - name: Lab Wiki
     url: https://wiki.weecology.org/
-    weight: 70
+    weight: 80
   - name: Contact
     url: contact
-    weight: 80
+    weight: 90
