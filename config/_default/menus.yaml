@@ -13,12 +13,15 @@ main:
   - name: People
     url: people
     weight: 30
-  - name: Publications
-    url: publication
+  - name: Data
+    url: data
     weight: 50
   - name: Teaching
     url: teaching
     weight: 60
+  - name: Publications
+    url: publication
+    weight: 70
   - name: Lab Wiki
     url: https://wiki.weecology.org/
     weight: 70
