@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The Data Retriever"
-summary: ""
+title: "AI for Bird Monitoring"
+summary: "Developing artificial intelligence methods for monitoring birds over large areas using UAVs and airplanes"
 authors: []
-tags: ["software"]
+tags: ["research"]
 categories: []
 date: 2021-10-25T15:04:31-04:00
 show_date: false
@@ -18,8 +18,9 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
+  alt_text: "Picture of trees from above with birds highlighted by colored circles"
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -28,6 +29,12 @@ image:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+links:
+- name: Paper
+  url: https://doi.org/10.1101/2021.08.05.455311
+  icon_pack: fa
+  icon: file-lines
+
 
 url_code: ""
 url_pdf: ""
@@ -42,17 +49,6 @@ url_video: ""
 slides: ""
 ---
 
-Finding data is one thing. Getting it ready for analysis is another. Acquiring,
-cleaning, standardizing and importing publicly available data is time consuming
-because many datasets lack machine readable metadata and do not conform to
-established data structures and formats. The Data Retriever automates the first
-steps in the data analysis pipeline by downloading, cleaning, and standardizing
-datasets, and importing them into relational databases, flat files, or
-programming languages. The automation of this process reduces the time for a
-user to get most large datasets up and running by hours, and in some cases days.
-
-- Retriever Home: https://github.com/weecology/retriever
-- R package: https://github.com/ropensci/rdataretriever
-- Julia Retriever package: https://github.com/weecology/Retriever.jl
-- Retrieverdash board: https://github.com/weecology/retrieverdash
-
+We are developing computer vision based approaches to automatically detecting and identifying birds to species from airbone imagery.
+We are also developing algorithms to identify nests and estimate nest success from repeated airborne flights.
+We are using these tools for monitoring purposes in the Everglades, but developing them to be broadly useful for airborne bird monitoring in general.

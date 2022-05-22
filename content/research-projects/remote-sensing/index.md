@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Remote Sensing"
-summary: "Ecological information from remote sensing"
+title: "Forest Remote Sensing"
+summary: "Using data science and remote sensing to monitor and analyze individual trees at the scale of entire forests"
 authors: []
 tags: ["research"]
 categories: []
@@ -11,7 +11,7 @@ show_date: false
 profile: false
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://idtrees.org/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,6 +28,11 @@ image:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+links:
+- name: Project Website
+  url: https://idtrees.org/
+  icon_pack: fa
+  icon: home
 
 url_code: ""
 url_pdf: ""
@@ -41,17 +46,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-One of the fundamental scales of measurement in ecology  is the
-individual, because individual organisms are a  core biological
-unit that respond directly to  environmental conditions and
-biotic interactions. Ideal data for large-scale ecology would
-provide information on  every individual over large geographic
-extents, but  individual-level data is difficult and expensive
-to  collect. We are working to bridge this gap by combining
-newly available remote sensing and field data with innovative
-machine learning approaches to generate estimates of
-individual-level data on the location, size, traits, and species
-identity of individual trees at scales of 10,000+ ha using data
-from the [National Ecological Observatory
-Network](http://www.neonscience.org/) (NEON).
