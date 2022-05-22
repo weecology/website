@@ -26,6 +26,9 @@ education:
     year: 2015
 
 social:
+- icon: home
+  icon_pack: fas
+  link: https://diazrenata.github.io/home/
 - icon: envelope
   icon_pack: fas
   link: 'mailto:renata.diaz@weecology.org'
