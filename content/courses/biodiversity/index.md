@@ -19,6 +19,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  alt_text: "Graph showing number of species on the x and ecosystem function on the y with a positive concave down relationship"
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

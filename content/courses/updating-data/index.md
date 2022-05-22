@@ -18,7 +18,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-
+  alt_text: "Living Data logo - two curved arrows in a circle with the work data next to them"
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:

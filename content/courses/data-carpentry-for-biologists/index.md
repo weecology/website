@@ -19,6 +19,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  alt_text: "Picture of R code for data manipulation"
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

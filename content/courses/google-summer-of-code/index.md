@@ -19,6 +19,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  alt_text: "Google Summer of Code logo - code symbol, surrounded by circle, surrounded by star."
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

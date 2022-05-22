@@ -19,6 +19,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  alt_text: "Line with dots representing a time-series. The last dot is open instead of closed representing a forecast."
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
