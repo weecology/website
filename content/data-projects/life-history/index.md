@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Life History DBs"
-summary: "Databases of life history and morophological traits for mammals, birds, and reptiles"
+summary: "Databases of comparative life history and morphological traits for mammals, birds, and reptiles"
 authors: []
 tags: ["dataset"]
 categories: []
