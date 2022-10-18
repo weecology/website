@@ -30,8 +30,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 links:
-- name: Project Website (coming soon)
-  url: research
+- name: Project Website
+  url: https://everglades.weecology.org/
   icon_pack: fa
   icon: home
 
