@@ -2,6 +2,10 @@
 # Display name
 title: " Ethan White"
 
+# Username (this should match the folder name and the name on publications)
+authors:
+- "ethan-p-white"
+
 # Is this the primary user of the site?
 superuser: true
 
