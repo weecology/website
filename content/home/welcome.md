@@ -21,3 +21,4 @@ We are an interdisciplinary ecology and environmental data science research grou
 
 <a rel="me" href="https://mastodon.social/@ethanwhite"></a>
 <a rel="me" href="https://mastodon.social/@skmorgane"></a>
+<a rel="me" href="https://ecoevo.social/@weecology"></a>
