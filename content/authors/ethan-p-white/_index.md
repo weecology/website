@@ -3,8 +3,7 @@
 title: " Ethan White"
 
 # Username (this should match the folder name and the name on publications)
-authors:
-- "ethan-p-white"
+username: "ethan-p-white"
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,9 +20,9 @@ organizations:
 bio: My research interests include the use of large datasets, machine learning, and remote sensing to understand and make forecasts for the dynamics of ecological systems at large scales
 
 interests:
-- Data Science
-- Community Ecology
+- Environmental Data Science
 - Ecological Forecasting
+- Community Ecology
 
 education:
   courses:
