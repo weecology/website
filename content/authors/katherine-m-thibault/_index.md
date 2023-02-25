@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Kate Thibault
+username: "katherine-m-thibault"
 
 # Role/position
 role: Currently **Science Lead at the National Ecological Observatory Network**. Weecology Postdoc
