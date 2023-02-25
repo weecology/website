@@ -37,7 +37,7 @@ education:
 social:
 - icon: home
   icon_pack: fas
-  link: 'https://www.weecology.org/people/morgan-ernest/'
+  link: 'author/morgan-ernest/'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:skmorgane@ufl.edu'
