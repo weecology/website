@@ -42,7 +42,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduates
+- Alumni
 ---
 
 Prayas Jain is an undergraduate student at University of Delhi. He has been selected in Google Summer of Code 2022 to work on the project [High-performance parallel computing for model fitting and prediction](https://summerofcode.withgoogle.com/programs/2022/projects/qBazQsVJ). The goal of this project is to make the currently running forecasting system capable of parallelization. 
