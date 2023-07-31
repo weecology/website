@@ -12,6 +12,14 @@ authors:
 - Andrew Rassweiler
 - James A Rusak
 tags: []
+url_pdf: 'https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/05-0067'
+# url_code: ''
+url_dataset: 'https://figshare.com/collections/EVIDENCE_FOR_A_GENERAL_SPECIES_TIME_AREA_RELATIONSHIP/3298679'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://figshare.com/collections/EVIDENCE_FOR_A_GENERAL_SPECIES_TIME_AREA_RELATIONSHIP/3298679'
+# url_video: ''
 categories: []
 date: '2005-01-01'
 lastmod: 2021-10-25T17:46:21-04:00
@@ -32,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:14:26.037662Z'
+publishDate: '2023-07-19T01:37:40.412342Z'
 publication_types:
 - '2'
 abstract: ''

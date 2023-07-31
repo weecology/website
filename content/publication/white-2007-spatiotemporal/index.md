@@ -1,12 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Spatiotemporal scaling of species richness: patterns, processes, and implications'
+title: 'Spatiotemporal scaling of species richness: patterns, processes andimplications'
 subtitle: ''
 summary: ''
 authors:
 - Ethan P White
 tags: []
+url_pdf: 'https://digitalcommons.usu.edu/biology_facpub/364'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://digitalcommons.usu.edu/biology_facpub/364'
+# url_video: ''
 categories: []
 date: '2007-01-01'
 lastmod: 2021-10-25T17:47:35-04:00
@@ -27,9 +35,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:15:30.620669Z'
+publishDate: '2023-07-19T01:37:42.450423Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Scaling biodiversity (eds D. Storch, PA Marquet & JH Brown)*'
+publication: '*ScalingBiodiversity*'
 ---

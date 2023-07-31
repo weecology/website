@@ -14,6 +14,14 @@ authors:
 - Amy Teffer
 - Ethan P White
 tags: []
+url_pdf: 'https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007809&type=printable'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1371/journal.pcbi.1007809'
+# url_video: ''
 categories: []
 date: '2020-01-01'
 lastmod: 2022-04-24T15:13:03-04:00
@@ -34,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-24T19:13:03.172353Z'
+publishDate: '2023-07-19T01:37:51.054640Z'
 publication_types:
 - '0'
 abstract: ''

@@ -11,6 +11,14 @@ authors:
 - Ethan P White
 - James H Brown
 tags: []
+url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1461-0248.2004.00643.x'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1111/j.1461-0248.2004.00643.x'
+# url_video: ''
 categories: []
 date: '2004-01-01'
 lastmod: 2021-10-25T17:46:48-04:00
@@ -31,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:14:51.744481Z'
+publishDate: '2023-07-19T01:37:42.593706Z'
 publication_types:
 - '2'
 abstract: ''

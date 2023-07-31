@@ -18,6 +18,14 @@ authors:
 - Guy Pe'er
 - ' others'
 tags: []
+url_pdf: 'https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecy.3354'
+# url_code: 'https://doi.org/10.5063/F1ZC817H'
+# url_dataset: 'https://doi.org/10.5063/F1ZC817H'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1002/ecy.3354'
+# url_video: ''
 categories: []
 date: '2021-01-01'
 lastmod: 2022-04-26T13:19:14-04:00

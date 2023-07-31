@@ -9,6 +9,14 @@ authors:
 - Allen H Hurlbert
 - Ethan P White
 tags: []
+url_pdf: 'https://www.journals.uchicago.edu/doi/epdf/10.1086/669903'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://www.journals.uchicago.edu/doi/full/10.1086/669903'
+# url_video: ''
 categories: []
 date: '2013-01-01'
 lastmod: 2021-10-25T17:46:30-04:00
@@ -29,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:14:35.989357Z'
+publishDate: '2023-07-19T01:37:45.937936Z'
 publication_types:
 - '2'
 abstract: ''

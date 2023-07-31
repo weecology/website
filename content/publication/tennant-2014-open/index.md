@@ -17,6 +17,14 @@ authors:
 - Erin C McKiernan
 - ' others'
 tags: []
+url_pdf: ''
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: ''
+# url_video: ''
 categories: []
 date: '2014-01-01'
 lastmod: 2021-10-25T17:47:19-04:00

@@ -17,6 +17,14 @@ authors:
 - Laurel G Larsen
 - ' others'
 tags: []
+url_pdf: 'https://www.pnas.org/doi/pdf/10.1073/pnas.1710231115'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1073/pnas.1710231115'
+# url_video: ''
 categories: []
 date: '2018-01-01'
 lastmod: 2021-10-25T17:46:32-04:00
@@ -37,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:14:38.066757Z'
+publishDate: '2023-07-19T01:37:48.560106Z'
 publication_types:
 - '2'
 abstract: ''

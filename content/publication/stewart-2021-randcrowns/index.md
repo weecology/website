@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'RandCrowns: A Quantitative Metric for Imprecisely Labeled Tree Crown Delineation'
+title: 'Randcrowns: A quantitative metric for imprecisely labeled tree crown delineation'
 subtitle: ''
 summary: ''
 authors:
@@ -14,6 +14,14 @@ authors:
 - Stephanie A Bohlman
 - Aditya Singh
 tags: []
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9585420'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://ieeexplore.ieee.org/document/9585420'
+# url_video: ''
 categories: []
 date: '2021-01-01'
 lastmod: 2022-04-24T15:13:04-04:00
@@ -34,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-24T19:13:03.934658Z'
+publishDate: '2023-07-19T01:37:55.714251Z'
 publication_types:
 - '2'
 abstract: ''

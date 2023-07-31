@@ -9,6 +9,14 @@ authors:
 - Ellen K Bledsoe
 - SK Morgan Ernest
 tags: []
+url_pdf: 'https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecy.2869'
+url_code: 'https://doi.org/10.5281/zenodo.3371466'
+url_dataset: 'https://doi.org/10.5281/zenodo.3371466'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1002/ecy.2869'
+# url_video: ''
 categories: []
 date: '2019-01-01'
 lastmod: 2022-04-26T13:19:14-04:00
@@ -29,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-26T17:19:14.431338Z'
+publishDate: '2023-07-19T01:32:42.940688Z'
 publication_types:
 - '0'
 abstract: ''

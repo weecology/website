@@ -12,6 +12,14 @@ authors:
 - Alina Zare
 - Ethan White
 tags: []
+url_pdf: 'https://www.mdpi.com/2072-4292/11/11/1309/pdf?version=1559367127'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.3390/rs11111309'
+# url_video: ''
 categories: []
 date: '2019-01-01'
 lastmod: 2022-04-24T15:13:02-04:00
@@ -32,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-24T19:13:02.833953Z'
+publishDate: '2023-07-19T01:37:50.005603Z'
 publication_types:
 - '2'
 abstract: ''

@@ -13,6 +13,14 @@ authors:
 - Karthik Ram
 - Aleksandra Pawlik
 tags: []
+url_pdf: 'http://www.ijdc.net/article/view/10.1.135/386'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.2218/ijdc.v10i1.351'
+# url_video: ''
 categories: []
 date: '2015-01-01'
 lastmod: 2021-10-25T17:47:19-04:00
@@ -33,9 +41,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:15:16.631872Z'
+publishDate: '2023-07-19T01:37:47.539301Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*International Journal of Digital Curation*'
+publication: ''
 ---

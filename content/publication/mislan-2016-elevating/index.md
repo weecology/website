@@ -9,6 +9,14 @@ authors:
 - Jeffrey M Heer
 - Ethan P White
 tags: []
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0169534715002906/pdfft?md5=08bec13e35cb4ef142db918ec9c0d245&pid=1-s2.0-S0169534715002906-main.pdf'
+url_code: 'https://zenodo.org/record/34689'
+url_dataset: 'https://zenodo.org/record/34689'
+# url_poster: ''
+url_project: 'https://github.com/kallisons/CodeEcologyJournals/tree/v0.0'
+# url_slides: ''
+url_source: 'https://doi.org/10.1016/j.tree.2015.11.006'
+# url_video: ''
 categories: []
 date: '2016-01-01'
 lastmod: 2021-10-25T17:46:56-04:00
@@ -29,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:14:59.027559Z'
+publishDate: '2023-07-19T01:37:47.977161Z'
 publication_types:
 - '2'
 abstract: ''

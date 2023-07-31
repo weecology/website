@@ -14,6 +14,14 @@ authors:
 - Juniper L Simonis
 - SK Morgan Ernest
 tags: []
+url_pdf: 'https://www.biorxiv.org/content/10.1101/268623v3.full.pdf'
+url_code: 'https://github.com/weecology/portalPredictions'
+url_dataset: 'https://github.com/weecology/PortalData'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://www.biorxiv.org/content/10.1101/268623v3'
+# url_video: ''
 categories: []
 date: '2018-01-01'
 lastmod: 2021-10-25T17:47:44-04:00

@@ -9,6 +9,14 @@ authors:
 - Renata M Diaz
 - SK Morgan Ernest
 tags: []
+url_pdf: 'https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecy.3709'
+url_code: 'https://github.com/diazrenata/squareone/tree/v1.0'
+# url_dataset: ''
+# url_poster: ''
+url_project: 'https://github.com/diazrenata/squareone/tree/v1.0'
+# url_slides: ''
+url_source: 'https://doi.org/10.1002/ecy.3709'
+# url_video: ''
 categories: []
 date: '2021-01-01'
 lastmod: 2022-04-26T13:19:15-04:00

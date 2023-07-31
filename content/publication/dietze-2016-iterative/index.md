@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Iterative ecological forecasting: Needs, opportunities, and challenges'
+title: 'Iterative ecological forecasting: needs, opportunities, and challenges'
 subtitle: ''
 summary: ''
 authors:
-- Michael C Dietze
+- Mike Dietze
 - Andrew Fox
 - Julio L Betancourt
-- Mevin B Hooten
+- Mevin Hooten
 - Catherine S Jarnevich
 - Tim H Keitt
 - Melissa Kenney
@@ -17,6 +17,14 @@ authors:
 - Henry W Loescher
 - ' others'
 tags: []
+url_pdf: 'https://doi.org/10.6084/m9.figshare.4715317.v3'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.6084/m9.figshare.4715317.v3'
+# url_video: ''
 categories: []
 date: '2016-01-01'
 lastmod: 2021-10-25T17:46:31-04:00
@@ -37,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:14:37.283916Z'
+publishDate: '2023-07-19T01:37:56.611429Z'
 publication_types:
 - '1'
 abstract: ''

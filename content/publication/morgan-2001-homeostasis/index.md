@@ -9,6 +9,14 @@ authors:
 - SK Morgan Ernest
 - James H Brown
 tags: []
+url_pdf: 'https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/0012-9658%282001%29082%5B2118%3AHACTRO%5D2.0.CO%3B2'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1890/0012-9658(2001)082[2118:HACTRO]2.0.CO;2'
+# url_video: ''
 categories: []
 date: '2001-01-01'
 lastmod: 2021-10-25T17:46:58-04:00
@@ -29,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:15:00.693536Z'
+publishDate: '2023-07-19T01:32:40.518459Z'
 publication_types:
 - '2'
 abstract: ''

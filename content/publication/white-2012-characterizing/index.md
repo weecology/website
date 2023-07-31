@@ -10,6 +10,14 @@ authors:
 - Katherine M Thibault
 - Xiao Xiao
 tags: []
+url_pdf: 'https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1890/11-2177.1'
+url_code: 'http://dx.doi.org/10.6084/m9.figshare.c.3304845'
+url_dataset: 'http://dx.doi.org/10.6084/m9.figshare.c.3304845'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1890/11-2177.1'
+# url_video: ''
 categories: []
 date: '2012-01-01'
 lastmod: 2021-10-25T17:47:39-04:00
@@ -30,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:15:33.347629Z'
+publishDate: '2023-07-19T01:37:45.360499Z'
 publication_types:
 - '2'
 abstract: ''

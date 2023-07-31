@@ -18,6 +18,14 @@ authors:
 - Christopher Lippitt
 - ' others'
 tags: []
+url_pdf: 'https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/eap.2694'
+url_code: 'https://doi.org/10.5281/zenodo.5156926'
+url_dataset: 'https://doi.org/10.5281/zenodo.5033174'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1002/eap.2694'
+# url_video: ''
 categories: []
 date: '2021-01-01'
 lastmod: 2022-04-26T13:19:15-04:00

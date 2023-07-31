@@ -7,6 +7,14 @@ summary: ''
 authors:
 - Ethan P White
 tags: []
+url_pdf: 'https://ojs.library.queensu.ca/index.php/IEE/article/view/5745/5464'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://ojs.library.queensu.ca/index.php/IEE/article/view/5745'
+# url_video: ''
 categories: []
 date: '2015-01-01'
 lastmod: 2021-10-25T17:47:43-04:00
@@ -27,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:15:35.495858Z'
+publishDate: '2023-07-19T01:37:47.689772Z'
 publication_types:
 - '2'
 abstract: ''

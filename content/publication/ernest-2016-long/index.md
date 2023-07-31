@@ -18,6 +18,14 @@ authors:
 - James H Brown
 - ' others'
 tags: []
+url_pdf: 'https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/15-2115.1'
+# url_code: ''
+url_dataset: 'https://esajournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1890%2F15-2115.1&file=ecy1360-sup-0001-DataS1.zip'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/15-2115.1'
+# url_video: ''
 categories: []
 date: '2016-01-01'
 lastmod: 2021-10-25T17:46:40-04:00
@@ -38,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:14:45.669339Z'
+publishDate: '2023-07-19T01:32:41.106048Z'
 publication_types:
 - '2'
 abstract: ''

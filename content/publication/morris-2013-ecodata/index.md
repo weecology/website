@@ -8,6 +8,14 @@ authors:
 - Benjamin D Morris
 - Ethan P White
 tags: []
+url_pdf: 'https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0065848&type=printable'
+url_code: 'https://github.com/weecology/retriever'
+url_dataset: 'https://github.com/weecology/retriever-recipes'
+# url_poster: ''
+url_project: 'https://github.com/weecology/retriever'
+# url_slides: ''
+url_source: 'https://doi.org/10.1371/journal.pone.0065848'
+# url_video: ''
 categories: []
 date: '2013-01-01'
 lastmod: 2021-10-25T17:47:00-04:00
@@ -28,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:15:02.041077Z'
+publishDate: '2023-07-19T01:37:46.378925Z'
 publication_types:
 - '2'
 abstract: ''

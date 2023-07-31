@@ -17,6 +17,14 @@ authors:
 - Marcus J Hamilton
 - ' others'
 tags: []
+url_pdf: 'https://www.pnas.org/doi/epdf/10.1073/pnas.1120774109'
+url_code: 'https://doi.org/10.1073/pnas.1120774109'
+# url_dataset: ''
+# url_poster: ''
+url_project: 'https://doi.org/10.1073/pnas.1120774109'
+# url_slides: ''
+url_source: 'https://doi.org/10.1073/pnas.1120774109'
+# url_video: ''
 categories: []
 date: '2012-01-01'
 lastmod: 2021-10-25T17:46:41-04:00
@@ -37,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:14:46.358590Z'
+publishDate: '2023-07-19T01:32:38.738399Z'
 publication_types:
 - '2'
 abstract: ''

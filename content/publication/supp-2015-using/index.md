@@ -10,6 +10,14 @@ authors:
 - David N. Koons
 - S.K. Morgan Ernest
 tags: []
+url_pdf: 'https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/ES15-00239.1'
+url_code: 'http://dx.doi.org/10.1890/ES15-00239.1.sm'
+url_dataset: 'http://dx.doi.org/10.1890/ES15-00239.1.sm'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1890/ES15-00239.1'
+# url_video: ''
 categories: []
 date: '2015-01-01'
 lastmod: 2021-10-25T17:47:18-04:00
@@ -30,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:15:16.035834Z'
+publishDate: '2023-07-19T01:32:40.814648Z'
 publication_types:
 - '2'
 abstract: ''

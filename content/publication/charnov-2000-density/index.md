@@ -10,6 +10,14 @@ authors:
 - JP Haskell
 - SK Ernest
 tags: []
+url_pdf: 'https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1050&context=biol_fsp'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1050&context=biol_fsp'
+# url_video: ''
 categories: []
 date: '2000-01-01'
 lastmod: 2021-10-25T17:46:28-04:00

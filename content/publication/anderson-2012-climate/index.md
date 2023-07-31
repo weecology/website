@@ -9,6 +9,14 @@ authors:
 - Felisa A Smith
 - S.K. Morgan Ernest
 tags: []
+url_pdf: ''
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://onlinelibrary.wiley.com/doi/book/10.1002/9781119968535'
+# url_video: ''
 categories: []
 date: '2012-01-01'
 lastmod: 2021-10-25T17:46:23-04:00
@@ -29,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:14:28.587849Z'
+publishDate: '2023-07-19T01:32:39.190274Z'
 publication_types:
 - '6'
 abstract: ''

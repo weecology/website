@@ -10,6 +10,14 @@ authors:
 - Ethan White
 - Allen Hurlbert
 tags: []
+url_pdf: 'https://www.biorxiv.org/content/10.1101/163816v1.full.pdf'
+url_code: 'https://doi.org/10.5281/zenodo.1243896'
+url_dataset: 'https://doi.org/10.5281/zenodo.1243896'
+# url_poster: ''
+url_project: 'http://dx.doi.org/10.1101/163816'
+# url_slides: ''
+url_source: 'http://dx.doi.org/10.1101/163816'
+# url_video: ''
 categories: []
 date: '2017-01-01'
 lastmod: 2021-10-25T17:47:13-04:00

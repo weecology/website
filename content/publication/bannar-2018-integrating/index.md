@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Katherine H Bannar-Martin
 - Colin T Kremer
-- SK Ernest
+- SK Morgan Ernest
 - Mathew A Leibold
 - Harald Auge
 - Jonathan Chase
@@ -18,6 +18,14 @@ authors:
 - Helmut Hillebrand
 - ' others'
 tags: []
+url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/ele.12895'
+url_code: 'https://github.com/ctkremer/priceTools'
+url_dataset: 'https://figshare.com/articles/dataset/Data_for_Integrating_community_assembly_and_biodiversity_reveals_new_dimensions_of_ecosystem_function_the_Community_Assembly_and_the_Functioning_of_Ecosystems_CAFE_approach_/5615731/1'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: 'https://onlinelibrary.wiley.com/doi/10.1111/ele.12895'
+# url_video: ''
 categories: []
 date: '2018-01-01'
 lastmod: 2021-10-25T17:46:25-04:00
@@ -38,9 +46,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:14:29.925364Z'
+publishDate: '2023-07-19T01:32:41.758245Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Ecology letters*'
+publication: '*Ecology Letters*'
 ---

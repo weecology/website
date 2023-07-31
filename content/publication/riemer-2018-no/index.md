@@ -9,6 +9,14 @@ authors:
 - Robert P Guralnick
 - Ethan P White
 tags: []
+url_pdf: 'https://elifesciences.org/articles/27166#downloads'
+# url_code: ''
+url_dataset: 'https://elifesciences.org/articles/27166#data'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.7554/eLife.27166'
+# url_video: ''
 categories: []
 date: '2018-01-01'
 lastmod: 2021-10-25T17:47:06-04:00
@@ -29,9 +37,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:15:06.719813Z'
+publishDate: '2023-07-19T01:37:48.271952Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*eLife*'
+publication: '*Elife*'
 ---

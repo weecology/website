@@ -5,8 +5,16 @@ title: Scales of data
 subtitle: ''
 summary: ''
 authors:
-- SK Ernest
+- SK Morgan Ernest
 tags: []
+url_pdf: 'https://doi.org/10.1038/s41559-018-0523-5'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1038/s41559-018-0523-5'
+# url_video: ''
 categories: []
 date: '2018-01-01'
 lastmod: 2022-04-26T13:19:13-04:00
@@ -27,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-26T17:19:13.914480Z'
+publishDate: '2023-07-19T01:32:42.052339Z'
 publication_types:
 - '2'
 abstract: ''

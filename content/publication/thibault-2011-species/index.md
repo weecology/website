@@ -11,6 +11,14 @@ authors:
 - Ethan P White
 - SK Morgan Ernest
 tags: []
+url_pdf: 'https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/11-0262.1'
+url_code: 'https://dx.doi.org/10.6084/m9.figshare.c.3304296'
+url_dataset: 'https://dx.doi.org/10.6084/m9.figshare.c.3304296'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1890/11-0262.1'
+# url_video: ''
 categories: []
 date: '2011-01-01'
 lastmod: 2021-10-25T17:47:25-04:00
@@ -31,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:15:21.556029Z'
+publishDate: '2023-07-19T01:37:45.217943Z'
 publication_types:
 - '2'
 abstract: ''

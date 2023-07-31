@@ -10,6 +10,14 @@ authors:
 - Ethan P White
 - Allen H Hurlbert
 tags: []
+url_pdf: 'https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecy.2398'
+url_code: 'https://doi.org/10.5281/zenodo.1243896'
+url_dataset: 'https://doi.org/10.5281/zenodo.1243896'
+# url_poster: ''
+url_project: 'https://doi.org/10.5281/zenodo.1243896'
+# url_slides: ''
+url_source: 'https://doi.org/10.1002/ecy.2398'
+# url_video: ''
 categories: []
 date: '2018-01-01'
 lastmod: 2022-04-24T15:13:02-04:00
@@ -30,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-24T19:13:02.223179Z'
+publishDate: '2023-07-19T01:37:57.971106Z'
 publication_types:
 - '2'
 abstract: ''

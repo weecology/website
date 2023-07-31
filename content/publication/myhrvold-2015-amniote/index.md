@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: An amniote life-history database to perform comparative analyses with birds,
-  mammals, and reptiles
+title: 'An amniote life-history database to perform comparative analyses with birds,
+  mammals, and reptiles: Ecological Archives E096-269'
 subtitle: ''
 summary: ''
 authors:
@@ -11,8 +11,16 @@ authors:
 - Benjamin Chan
 - Dhileep Sivam
 - Daniel L Freeman
-- SK Ernest
+- SK Morgan Ernest
 tags: []
+url_pdf: 'https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/15-0846R.1'
+# url_code: ''
+url_dataset: 'https://figshare.com/collections/An_amniote_life-history_database_to_perform_comparative_analyses_with_birds_mammals_and_reptiles/3308127'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1890/15-0846R.1'
+# url_video: ''
 categories: []
 date: '2015-01-01'
 lastmod: 2021-10-25T17:47:01-04:00
@@ -33,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:15:02.738672Z'
+publishDate: '2023-07-19T01:32:40.663962Z'
 publication_types:
 - '2'
 abstract: ''

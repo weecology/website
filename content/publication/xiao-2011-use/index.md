@@ -11,6 +11,14 @@ authors:
 - Mevin B Hooten
 - Susan L Durham
 tags: []
+url_pdf: 'https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/11-0538.1'
+# url_code: 'https://dx.doi.org/10.6084/m9.figshare.c.3304173'
+# url_dataset: 'https://dx.doi.org/10.6084/m9.figshare.c.3304173'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1890/11-0538.1'
+# url_video: ''
 categories: []
 date: '2011-01-01'
 lastmod: 2021-10-25T17:47:48-04:00
@@ -31,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:15:39.924994Z'
+publishDate: '2023-07-19T01:37:44.632875Z'
 publication_types:
 - '2'
 abstract: ''

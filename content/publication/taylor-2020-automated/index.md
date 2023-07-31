@@ -9,6 +9,14 @@ authors:
 - Shawn D Taylor
 - Ethan P White
 tags: []
+url_pdf: 'https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/eap.2025'
+url_code: 'https://github.com/sdtaylor/phenology_forecasts'
+url_dataset: 'https://doi.org/10.5281/zenodo.2577452'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1002/eap.2025'
+# url_video: ''
 categories: []
 date: '2020-01-01'
 lastmod: 2022-04-24T15:13:03-04:00
@@ -29,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-24T19:13:03.098852Z'
+publishDate: '2023-07-19T01:37:50.747120Z'
 publication_types:
 - '2'
 abstract: ''
