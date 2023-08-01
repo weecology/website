@@ -1,0 +1,45 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Temporal changes in the individual size distribution decouple long-term trends
+  in abundance, biomass, and energy use of North American breeding bird communities
+subtitle: ''
+summary: ''
+authors:
+- Renata M Diaz
+- SK Morgan Ernest
+tags: []
+url_pdf: 'https://www.biorxiv.org/content/10.1101/2022.11.08.515659v1.full.pdf'
+url_code: 'https://www.github.com/diazrenata/BBSsims'
+url_dataset: 'https://www.github.com/diazrenata/BBSsims'
+# url_poster: ''
+url_project: 'https://www.github.com/diazrenata/BBSsims'
+# url_slides: ''
+url_source: 'https://www.biorxiv.org/content/10.1101/2022.11.08.515659v1'
+# url_video: ''
+categories: []
+date: '2022-01-01'
+lastmod: 2023-07-18T21:32:03-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-07-19T01:32:45.149401Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*bioRxiv*'
+---
