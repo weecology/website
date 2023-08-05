@@ -17,6 +17,14 @@ authors:
 - Edward Heske
 - ' others'
 tags: []
+url_pdf: 'https://www.biorxiv.org/content/10.1101/332783v3.full.pdf'
+# url_code: ''
+url_dataset: 'https://github.com/weecology/PortalData'
+# url_poster: ''
+url_project: 'https://github.com/weecology/PortalData'
+# url_slides: ''
+url_source: 'https://www.biorxiv.org/content/10.1101/332783v3'
+# url_video: ''
 categories: []
 date: '2020-01-01'
 lastmod: 2022-04-26T13:19:14-04:00

@@ -12,6 +12,14 @@ authors:
 - JLE Cartron
 - JF Kelly
 tags: []
+url_pdf: 'https://doi.org/10.7208/chicago/9780226789583.003.0010'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.7208/chicago/9780226789583.003.0010'
+# url_video: ''
 categories: []
 date: '2004-01-01'
 lastmod: 2021-10-25T17:46:27-04:00
@@ -32,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:14:32.558820Z'
+publishDate: '2023-07-19T01:32:38.141302Z'
 publication_types:
 - '2'
 abstract: ''

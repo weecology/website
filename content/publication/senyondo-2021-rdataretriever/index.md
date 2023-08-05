@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Rdataretriever: R Interface to the Data Retriever'
+title: 'Rdataretriever: R interface to the data retriever'
 subtitle: ''
 summary: ''
 authors:
@@ -17,6 +17,14 @@ authors:
 - Apoorva Pandey
 - ' others'
 tags: []
+url_pdf: 'https://joss.theoj.org/papers/10.21105/joss.02800'
+url_code: 'https://github.com/ropensci/rdataretriever/'
+url_dataset: 'https://github.com/weecology/retriever-recipes'
+url_poster: 'https://www.youtube.com/watch?v=lJr18H-vW7g'
+url_project: 'https://github.com/ropensci/rdataretriever/'
+# url_slides: ''
+url_source: 'https://docs.ropensci.org/rdataretriever/'
+# url_video: ''
 categories: []
 date: '2021-01-01'
 lastmod: 2022-04-24T15:13:03-04:00
@@ -37,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-24T19:13:03.616073Z'
+publishDate: '2023-07-19T01:37:54.379451Z'
 publication_types:
 - '2'
 abstract: ''

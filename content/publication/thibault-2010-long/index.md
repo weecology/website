@@ -12,6 +12,14 @@ authors:
 - James H Brown
 - Jacob R Goheen
 tags: []
+url_pdf: 'https://academic.oup.com/jmammal/article-pdf/91/4/787/2887929/91-4-787.pdf'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1644/09-MAMM-S-142.1'
+# url_video: ''
 categories: []
 date: '2010-01-01'
 lastmod: 2021-10-25T17:47:23-04:00
@@ -32,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:15:19.549849Z'
+publishDate: '2023-07-19T01:37:43.931482Z'
 publication_types:
 - '2'
 abstract: ''

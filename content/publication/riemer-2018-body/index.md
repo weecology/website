@@ -12,6 +12,14 @@ authors:
 - David J Harris
 - SK Morgan Ernest
 tags: []
+url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/geb.12757'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1111/geb.12757'
+# url_video: ''
 categories: []
 date: '2018-01-01'
 lastmod: 2022-04-26T13:19:13-04:00
@@ -32,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-26T17:19:13.844084Z'
+publishDate: '2023-07-19T01:32:41.407881Z'
 publication_types:
 - '2'
 abstract: ''

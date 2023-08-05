@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Modeling How Community Assembly Alters the Functioning of Ecosystems
+title: Modeling how community assembly alters the functioning of ecosystems
 subtitle: ''
 summary: ''
 authors:
@@ -14,6 +14,14 @@ authors:
 - Juliano Sarmento Cabral
 - Mathew A Leibold
 tags: []
+url_pdf: 'https://www.biorxiv.org/content/10.1101/2020.02.10.942656v1.full.pdf'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://www.biorxiv.org/content/10.1101/2020.02.10.942656v1'
+# url_video: ''
 categories: []
 date: '2020-01-01'
 lastmod: 2022-04-26T13:19:14-04:00
@@ -34,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-26T17:19:14.889819Z'
+publishDate: '2023-07-19T01:32:44.416466Z'
 publication_types:
 - '2'
 abstract: ''

@@ -18,6 +18,14 @@ authors:
 - Elizabeth A Hadly
 - ' others'
 tags: []
+url_pdf: 'https://www.journals.uchicago.edu/doi/epdf/10.1086/382898'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+url_project: 'https://doi.org/10.1086/382898'
+url_slides: 'https://www.journals.uchicago.edu/action/downloadFigures?doi=10.1086/382898&id=fg8'
+url_source: 'https://doi.org/10.1086/382898'
+# url_video: ''
 categories: []
 date: '2004-01-01'
 lastmod: 2021-10-25T17:47:10-04:00
@@ -38,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:15:09.966432Z'
+publishDate: '2023-07-19T01:32:34.419649Z'
 publication_types:
 - '2'
 abstract: ''

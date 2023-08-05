@@ -8,6 +8,14 @@ authors:
 - James H Brown
 - SK Morgan Ernest
 tags: []
+url_pdf: 'https://academic.oup.com/bioscience/article-pdf/52/11/979/26892114/52-11-979.pdf'
+# url_code: ''
+# url_dataset: 'https://github.com/weecology/PortalData'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1641/0006-3568(2002)052[0979:RARCDO]2.0.CO;2'
+# url_video: ''
 categories: []
 date: '2002-01-01'
 lastmod: 2021-10-25T17:46:26-04:00
@@ -28,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:14:31.897063Z'
+publishDate: '2023-07-19T01:32:34.567927Z'
 publication_types:
 - '2'
 abstract: ''

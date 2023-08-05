@@ -17,6 +17,14 @@ authors:
 - Mark Plumbley
 - ' others'
 tags: []
+url_pdf: 'https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.1001745&type=printable'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1371/journal.pbio.1001745'
+# url_video: ''
 categories: []
 date: '2013-01-01'
 lastmod: 2021-10-25T17:47:45-04:00

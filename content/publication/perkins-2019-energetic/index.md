@@ -15,6 +15,14 @@ authors:
 - Ethan P White
 - Gabriel Yvon-Durocher
 tags: []
+url_pdf: 'https://www.nature.com/articles/s41467-018-08039-3.pdf'
+url_code: 'http://tuvalu.santafe.edu/~aaronc/powerlaws/plfit.r'
+url_dataset: 'https://figshare.com/s/013fba909417e89fe7e1'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://www.nature.com/articles/s41467-018-08039-3#data-availability'
+# url_video: ''
 categories: []
 date: '2019-01-01'
 lastmod: 2022-04-24T15:13:02-04:00
@@ -35,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-24T19:13:02.735826Z'
+publishDate: '2023-07-19T01:37:49.861425Z'
 publication_types:
 - '2'
 abstract: ''

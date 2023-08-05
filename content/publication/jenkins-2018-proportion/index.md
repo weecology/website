@@ -10,6 +10,14 @@ authors:
 - Ethan P White
 - Allen H Hurlbert
 tags: []
+url_pdf: ''
+# url_code: ''
+url_dataset: 'https://github.com/mollyfrn/core_scale'
+# url_poster: ''
+url_project: 'https://github.com/mollyfrn/core_scale'
+# url_slides: ''
+url_source: 'https://peerj.com/articles/6019/'
+# url_video: ''
 categories: []
 date: '2018-01-01'
 lastmod: 2022-04-24T15:13:02-04:00
@@ -30,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-24T19:13:02.642070Z'
+publishDate: '2023-07-19T01:37:49.719823Z'
 publication_types:
 - '2'
 abstract: ''

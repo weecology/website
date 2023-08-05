@@ -10,6 +10,14 @@ authors:
 - Felisa A Smith
 - SK Morgan Ernest
 tags: []
+url_pdf: 'https://academic.oup.com/jmammal/article-pdf/100/3/1087/28699199/gyy171.pdf'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1093/jmammal/gyy171'
+# url_video: ''
 categories: []
 date: '2019-01-01'
 lastmod: 2022-04-26T13:19:14-04:00
@@ -30,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-26T17:19:14.509669Z'
+publishDate: '2023-07-19T01:32:43.392420Z'
 publication_types:
 - '2'
 abstract: ''

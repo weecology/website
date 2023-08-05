@@ -5,8 +5,16 @@ title: Body size, energy use, and community structure of small mammals
 subtitle: ''
 summary: ''
 authors:
-- SK Ernest
+- SK Morgan Ernest
 tags: []
+url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1046/j.1461-0248.2003.00526.x'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://www.jstor.org/stable/3450766'
+# url_video: ''
 categories: []
 date: '2005-01-01'
 lastmod: 2021-10-25T17:46:34-04:00
@@ -27,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:14:40.610373Z'
+publishDate: '2023-07-19T01:32:35.328582Z'
 publication_types:
 - '2'
 abstract: ''

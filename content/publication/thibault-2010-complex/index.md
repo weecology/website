@@ -11,6 +11,14 @@ authors:
 - JH Brown
 - JR Goheen
 tags: []
+url_pdf: 'https://digitalcommons.usu.edu/biology_facpub/357'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://digitalcommons.usu.edu/biology_facpub/357'
+# url_video: ''
 categories: []
 date: '2010-01-01'
 lastmod: 2021-10-25T17:47:22-04:00
@@ -31,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:15:18.633342Z'
+publishDate: '2023-07-19T01:37:45.502584Z'
 publication_types:
 - '2'
 abstract: ''

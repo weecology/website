@@ -12,6 +12,14 @@ authors:
 - David J Harris
 - SK Morgan Ernest
 tags: []
+url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/geb.12757'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+url_project: 'https://doi.org/10.1111/geb.12757'
+# url_slides: ''
+url_source: 'https://doi.org/10.1111/geb.12757'
+# url_video: ''
 categories: []
 date: '2017-01-01'
 lastmod: 2021-10-25T17:47:04-04:00

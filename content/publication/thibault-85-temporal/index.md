@@ -9,6 +9,14 @@ authors:
 - Ethan P. White
 - S. K. Morgan Ernest
 tags: []
+url_pdf: 'https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/04-0321'
+url_code: 'https://dx.doi.org/10.6084/m9.figshare.c.3298241'
+url_dataset: 'https://dx.doi.org/10.6084/m9.figshare.c.3298241'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1890/04-0321'
+# url_video: ''
 categories: []
 date: '2004-01-01'
 lastmod: 2021-10-25T17:47:26-04:00

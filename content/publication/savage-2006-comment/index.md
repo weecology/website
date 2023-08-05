@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Comment on\" The illusion of invariant quantities in life histories\"
+title: Comment on "The illusion of invariant quantities in life histories"
 subtitle: ''
 summary: ''
 authors:
@@ -12,6 +12,14 @@ authors:
 - Brian J Enquist
 - Eric L Charnov
 tags: []
+url_pdf: ''
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://pubmed.ncbi.nlm.nih.gov/16614200/'
+# url_video: ''
 categories: []
 date: '2006-01-01'
 lastmod: 2021-10-25T17:47:07-04:00
@@ -32,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:15:07.999627Z'
+publishDate: '2023-07-19T01:37:42.309044Z'
 publication_types:
 - '2'
 abstract: ''

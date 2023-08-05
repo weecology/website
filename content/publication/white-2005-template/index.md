@@ -8,6 +8,14 @@ authors:
 - Ethan P White
 - James H Brown
 tags: []
+url_pdf: 'https://link.springer.com/chapter/10.1007/0-387-24091-8_3'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://link.springer.com/chapter/10.1007/0-387-24091-8_3'
+# url_video: ''
 categories: []
 date: '2005-01-01'
 lastmod: 2021-10-25T17:47:32-04:00
@@ -28,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:15:27.832078Z'
+publishDate: '2023-07-19T01:37:43.344643Z'
 publication_types:
 - '6'
 abstract: ''

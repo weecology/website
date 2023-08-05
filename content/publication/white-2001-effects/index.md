@@ -8,6 +8,14 @@ authors:
 - Ethan P White
 - Stanley D Gehrt
 tags: []
+url_pdf: 'https://www.jstor.org/stable/3784425'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://www.jstor.org/stable/3784425'
+# url_video: ''
 categories: []
 date: '2001-01-01'
 lastmod: 2021-10-25T17:47:29-04:00
@@ -28,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:15:24.549455Z'
+publishDate: '2023-07-19T01:37:42.015199Z'
 publication_types:
 - '2'
 abstract: ''

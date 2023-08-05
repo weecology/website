@@ -17,6 +17,14 @@ authors:
 - Dawn M Kaufman
 - ' others'
 tags: []
+url_pdf: 'https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1403&context=biology_facpub'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://digitalcommons.usu.edu/biology_facpub/404'
+# url_video: ''
 categories: []
 date: '2004-01-01'
 lastmod: 2021-10-25T17:46:52-04:00
@@ -37,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:14:55.142276Z'
+publishDate: '2023-07-19T01:32:39.337112Z'
 publication_types:
 - '2'
 abstract: ''

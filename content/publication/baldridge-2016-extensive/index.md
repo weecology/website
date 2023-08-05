@@ -10,9 +10,17 @@ authors:
 - Xiao Xiao
 - Ethan P White
 tags: []
+url_pdf: 'https://peerj.com/articles/2823/'
+url_code: 'https://github.com/weecology/sad-comparison'
+url_dataset: 'https://doi.org/10.5281/zenodo.166725'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://peerj.com/articles/2823/'
+# url_video: ''
 categories: []
 date: '2016-01-01'
-lastmod: 2021-10-25T17:46:24-04:00
+lastmod: 2023-08-01T12:47:58-04:00
 featured: false
 draft: false
 
@@ -30,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:14:29.348849Z'
+publishDate: '2023-08-01T16:47:57.842601Z'
 publication_types:
 - '2'
 abstract: ''

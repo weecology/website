@@ -9,6 +9,14 @@ authors:
 - Brian J Enquist
 - Jessica L Green
 tags: []
+url_pdf: 'https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/07-1288.1'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1890/07-1288.1'
+# url_video: ''
 categories: []
 date: '2008-01-01'
 lastmod: 2021-10-25T17:47:36-04:00
@@ -29,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:15:31.302329Z'
+publishDate: '2023-07-19T01:37:40.706724Z'
 publication_types:
 - '2'
 abstract: ''

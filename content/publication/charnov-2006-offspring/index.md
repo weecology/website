@@ -8,6 +8,14 @@ authors:
 - Eric L Charnov
 - SK Morgan Ernest
 tags: []
+url_pdf: 'https://www.journals.uchicago.edu/doi/epdf/10.1086/501141'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://pubmed.ncbi.nlm.nih.gov/16670999/'
+# url_video: ''
 categories: []
 date: '2006-01-01'
 lastmod: 2021-10-25T17:46:28-04:00
@@ -28,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:14:33.911071Z'
+publishDate: '2023-07-19T01:32:35.021428Z'
 publication_types:
 - '2'
 abstract: ''

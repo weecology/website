@@ -10,6 +10,14 @@ authors:
 - Andrew J Kerkhoff
 - Brian J Enquist
 tags: []
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0169534707000985/pdfft?md5=a0c6f3a958e77dd464414520dd74329f&pid=1-s2.0-S0169534707000985-main.pdf'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1016/j.tree.2007.03.007'
+# url_video: ''
 categories: []
 date: '2007-01-01'
 lastmod: 2021-10-25T17:47:34-04:00
@@ -30,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:15:29.824796Z'
+publishDate: '2023-07-19T01:37:40.113189Z'
 publication_types:
 - '2'
 abstract: ''

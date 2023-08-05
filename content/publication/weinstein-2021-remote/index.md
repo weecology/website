@@ -14,6 +14,14 @@ authors:
 - Sarah J Graves
 - Ethan P White
 tags: []
+url_pdf: 'https://elifesciences.org/articles/62922'
+url_code: 'https://zenodo.org/record/3765872'
+url_dataset: 'https://zenodo.org/record/3765872'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://elifesciences.org/articles/62922'
+# url_video: ''
 categories: []
 date: '2021-01-01'
 lastmod: 2022-04-24T15:13:03-04:00
@@ -34,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-24T19:13:03.691250Z'
+publishDate: '2023-07-19T01:37:54.831069Z'
 publication_types:
 - '2'
 abstract: ''

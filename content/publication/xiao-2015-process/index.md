@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A process-independent explanation for the general form of Taylor’s Law
+title: A process-independent explanation for the general form of Taylor’s law
 subtitle: ''
 summary: ''
 authors:
@@ -9,6 +9,14 @@ authors:
 - Kenneth J Locey
 - Ethan P White
 tags: []
+url_pdf: 'https://www.jstor.org/stable/10.1086/682050'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1086/682050'
+# url_video: ''
 categories: []
 date: '2015-01-01'
 lastmod: 2021-10-25T17:47:48-04:00
@@ -29,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:15:40.742589Z'
+publishDate: '2023-07-19T01:37:47.251365Z'
 publication_types:
 - '2'
 abstract: ''

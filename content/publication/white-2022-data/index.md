@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Data Carpentry for Biologists: A semester long Data Carpentry course using ecological and other biological examples'
+title: 'Data Carpentry for Biologists: A semester long Data Carpentry course using
+  ecological and other biological examples'
 subtitle: ''
 summary: ''
 authors:
@@ -14,16 +15,24 @@ authors:
 - Virnaliz Cruz
 - SK Morgan Ernest
 tags: []
+url_pdf: 'https://jose.theoj.org/papers/10.21105/jose.00139.pdf'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+url_project: 'https://github.com/datacarpentry/semester-biology/'
+# url_slides: ''
+url_source: 'https://jose.theoj.org/papers/10.21105/jose.00139'
+# url_video: ''
 categories: []
 date: '2022-01-01'
 lastmod: 2022-04-24T15:13:04-04:00
 featured: false
 draft: false
 links:
-  - icon_pack: fab
-    icon: code
-    name: Code
-    url: 'https://github.com/datacarpentry/semester-biology/'
+- icon_pack: fab
+  icon: code
+  name: Code
+  url: https://github.com/datacarpentry/semester-biology/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,7 +48,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-24T19:13:04.015374Z'
+publishDate: '2023-07-19T01:37:56.330972Z'
 publication_types:
 - '2'
 abstract: ''

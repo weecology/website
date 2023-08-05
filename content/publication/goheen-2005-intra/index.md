@@ -7,9 +7,17 @@ summary: ''
 authors:
 - Jacob R Goheen
 - Ethan P White
-- SK Ernest
+- SK Morgan Ernest
 - James H Brown
 tags: []
+url_pdf: 'https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/04-1475'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1890/04-1475'
+# url_video: ''
 categories: []
 date: '2005-01-01'
 lastmod: 2021-10-25T17:46:42-04:00
@@ -30,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:14:46.964175Z'
+publishDate: '2023-07-19T01:37:42.162182Z'
 publication_types:
 - '2'
 abstract: ''

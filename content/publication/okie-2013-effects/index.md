@@ -18,6 +18,14 @@ authors:
 - Larisa E Harding
 - ' others'
 tags: []
+url_pdf: 'https://royalsocietypublishing.org/doi/epdf/10.1098/rspb.2013.1007'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1098/rspb.2013.1007'
+# url_video: ''
 categories: []
 date: '2013-01-01'
 lastmod: 2021-10-25T17:47:02-04:00
@@ -38,9 +46,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:15:03.463832Z'
+publishDate: '2023-07-19T01:32:39.929582Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Proceedings of the Royal Society of London B: Biological Sciences*'
+publication: '*Proceedings of the Royal Society B: Biological Sciences*'
 ---

@@ -9,6 +9,14 @@ authors:
 - Shawn D Taylor
 - Ethan P White
 tags: []
+url_pdf: 'https://peerj.com/articles/4278/'
+url_code: 'http://doi.org/10.5281/zenodo.839580'
+url_dataset: 'https://doi.org/10.5281/zenodo.888988'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://peerj.com/articles/4278/'
+# url_video: ''
 categories: []
 date: '2018-01-01'
 lastmod: 2021-10-25T17:46:46-04:00
@@ -29,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:14:49.073616Z'
+publishDate: '2023-07-19T01:37:48.855670Z'
 publication_types:
 - '2'
 abstract: ''

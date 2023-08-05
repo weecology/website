@@ -12,6 +12,14 @@ authors:
 - Timothée Poisot
 - Dominique Gravel
 tags: []
+url_pdf: 'https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.1001563&type=printable'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1371/journal.pbio.1001563'
+# url_video: ''
 categories: []
 date: '2013-01-01'
 lastmod: 2021-10-25T17:46:31-04:00
@@ -32,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:14:36.686595Z'
+publishDate: '2023-07-19T01:37:46.234945Z'
 publication_types:
 - '2'
 abstract: ''

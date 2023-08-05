@@ -17,6 +17,14 @@ authors:
 - Marta Coll
 - ' others'
 tags: []
+url_pdf: ''
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 categories: []
 date: '2019-01-01'
 lastmod: 2022-04-24T15:13:03-04:00

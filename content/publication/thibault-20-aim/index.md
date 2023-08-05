@@ -17,6 +17,14 @@ tags:
 - '"North America"'
 - '"size distributions"'
 - '"size spectra"'
+url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1466-8238.2010.00576.x'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1111/j.1466-8238.2010.00576.x'
+# url_video: ''
 categories: []
 date: '2011-01-01'
 lastmod: 2021-10-25T17:47:26-04:00

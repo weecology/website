@@ -12,6 +12,14 @@ authors:
 - Michael C Orr
 - Ethan P White
 tags: []
+url_pdf: 'https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecy.2568'
+url_code: 'https://github.com/sdtaylor/phenology_dataset_study'
+url_dataset: 'https://doi.org/10.5281/zenodo.1256705'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1002/ecy.2568'
+# url_video: ''
 categories: []
 date: '2019-01-01'
 lastmod: 2022-04-24T15:13:02-04:00
@@ -32,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-24T19:13:02.458258Z'
+publishDate: '2023-07-19T01:37:49.427723Z'
 publication_types:
 - '2'
 abstract: ''

@@ -18,6 +18,14 @@ authors:
 - Dave J Harris
 - ' others'
 tags: []
+url_pdf: 'https://peerj.com/articles/5843/'
+url_code: 'https://zenodo.org/record/1206101'
+url_dataset: 'http://doi.org/10.5281/zenodo.1206101'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://peerj.com/articles/5843/'
+# url_video: ''
 categories: []
 date: '2019-01-01'
 lastmod: 2022-04-24T15:13:02-04:00
@@ -38,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-24T19:13:02.375777Z'
+publishDate: '2023-07-19T01:37:49.287924Z'
 publication_types:
 - '2'
 abstract: ''

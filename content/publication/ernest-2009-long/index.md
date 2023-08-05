@@ -1,15 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Long-term monitoring and experimental manipulation of a Chihuahuan Desert ecosystem
-  near Portal, Arizona, USA
+title: 'Long-term monitoring and experimental manipulation of a Chihuahuan Desert
+  ecosystem near Portal, Arizona, USA: Ecological Archives E090-118'
 subtitle: ''
 summary: ''
 authors:
-- SK Ernest
+- SK Morgan Ernest
 - Thomas J Valone
 - James H Brown
 tags: []
+url_pdf: 'https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/08-1222.1'
+# url_code: ''
+url_dataset: 'https://figshare.com/collections/Long-term_monitoring_and_experimental_manipulation_of_a_Chihuahuan_Desert_ecosystem_near_Portal_Arizona_USA/3301073'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://doi.org/10.1890/08-1222.1'
+# url_video: ''
 categories: []
 date: '2009-01-01'
 lastmod: 2021-10-25T17:46:38-04:00
@@ -30,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:14:43.662589Z'
+publishDate: '2023-07-19T01:32:36.821588Z'
 publication_types:
 - '2'
 abstract: ''

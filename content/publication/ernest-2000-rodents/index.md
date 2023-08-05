@@ -6,10 +6,18 @@ title: 'Rodents, plants, and precipitation: spatial and temporal dynamics of con
 subtitle: ''
 summary: ''
 authors:
-- SK Ernest
+- SK Morgan Ernest
 - James H Brown
 - Robert R Parmenter
 tags: []
+url_pdf: 'https://www.jstor.org/stable/3546936'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://www.jstor.org/stable/3546936'
+# url_video: ''
 categories: []
 date: '2000-01-01'
 lastmod: 2021-10-25T17:46:33-04:00
@@ -30,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:14:38.769916Z'
+publishDate: '2023-07-19T01:32:34.120583Z'
 publication_types:
 - '2'
 abstract: ''

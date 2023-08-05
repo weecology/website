@@ -7,9 +7,17 @@ summary: ''
 authors:
 - Ethan P White
 - Xiao Xiao
-- JB Nick
+- Nick JB Isaac
 - Richard M Sibly
 tags: []
+url_pdf: 'https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1732&context=biology_facpub'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+url_source: 'https://digitalcommons.usu.edu/biology_facpub/733'
+# url_video: ''
 categories: []
 date: '2012-01-01'
 lastmod: 2021-10-25T17:47:40-04:00
@@ -30,9 +38,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T22:15:34.005932Z'
+publishDate: '2023-07-19T01:37:52.535508Z'
 publication_types:
 - '2'
 abstract: ''
-publication: ''
+publication: '*Metabolic ecology: a scaling approach*'
 ---

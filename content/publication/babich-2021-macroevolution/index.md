@@ -9,6 +9,14 @@ authors:
 - SK Morgan Ernest
 - Andrew J Kerkhoff
 tags: []
+url_pdf: 'https://royalsocietypublishing.org/doi/epdf/10.1098/rspb.2021.0200'
+url_code: 'https://github.com/KerkhoffLab/TetrapodLifeHistory'
+# url_dataset: ''
+# url_poster: ''
+url_project: 'https://github.com/KerkhoffLab/TetrapodLifeHistory'
+# url_slides: ''
+url_source: 'https://royalsocietypublishing.org/doi/10.1098/rspb.2021.0200'
+# url_video: ''
 categories: []
 date: '2021-01-01'
 lastmod: 2022-04-26T13:19:14-04:00
@@ -29,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-26T17:19:14.308601Z'
+publishDate: '2023-07-19T01:32:42.793401Z'
 publication_types:
 - '2'
 abstract: ''
