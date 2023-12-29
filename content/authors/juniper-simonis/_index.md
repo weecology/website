@@ -2,11 +2,8 @@
 # Display name
 title: Juniper Simonis
 
-# Is this the primary user of the site?
-superuser: true
-
 # Role/position
-role: Data Analyst
+role: Currently **Data Scientist at the Oregon Department of Human Services**. Weecology Data Analyst
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +11,7 @@ organizations:
   url: "https://weecology.org"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Juniper Simonis (they/them) brings over 15 years’ experience in the fields of statistical, theoretical, and computational conservation biology
+bio: Currently **Data Scientist at the Oregon Department of Human Services**. Weecology Data Analyst
 
 interests:
 - Population Dynamics
@@ -56,7 +53,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Staff
+- Alumni
 ---
 
 Juniper is a quantitative ecologist who joined the lab as a Data Analyst in Fall 2017.

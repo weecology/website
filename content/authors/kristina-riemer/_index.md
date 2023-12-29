@@ -3,15 +3,12 @@
 title: Kristina Riemer
 
 # Role/position
-role: Currently **Scientific Programmer at University of Arizona**. Weecology PhD
+role: Currently **Director of Data Science at University of Arizona**. Weecology PhD
 
 # Organizations/Affiliations
 organizations:
 - name: University of Florida
   url: https://www.weecology.org
-
-# Short bio (displayed in user profile at end of posts)
-bio: Currently **Scientific Programmer at University of Arizona**. Weecology PhD
 
 interests:
 - computational ecology
