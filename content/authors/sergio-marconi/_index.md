@@ -3,7 +3,7 @@
 title: Sergio Marconi
 
 # Role/position
-role: Currently **Postdoc at University of Florida**. Weecology PhD
+role: Currently **Principal Remote Sensing Scientist & Geospatial Engineer at Terra Global Capital**. Weecology PhD
 
 # Organizations/Affiliations
 organizations:
@@ -32,6 +32,9 @@ social:
 - icon: home
   icon_pack: fas
   link: 'https://aiforecology.com/'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sergio-marconi-4430a434/
 - icon: envelope
   icon_pack: fas
   link: 'mailto:Sergio.marconi@weecology.org'

@@ -37,6 +37,9 @@ social:
 - icon: home
   icon_pack: fas
   link: 'author/ethan-white/'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ethanpwhite/
 - icon: envelope
   icon_pack: fas
   link: 'mailto:ethanwhite@ufl.edu'

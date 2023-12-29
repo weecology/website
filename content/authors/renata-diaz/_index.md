@@ -3,15 +3,12 @@
 title: Renata Diaz
 
 # Role/position
-role: PhD Student
+role: Currently **Data Scientist & Educator at the University of Arizona**. Weecology Postdoc
 
 # Organizations/Affiliations
 organizations:
 - name: University of Florida
   url: https://www.weecology.org
-
-# Short bio (displayed in user profile at end of posts)
-bio: Currently Reproducibility Librarian, University of Florida. Weecology Postdoc
 
 # interests:
 # - Time Series Analysis
@@ -51,7 +48,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 ---
 
 Renata studies community ecology using feasible set and maximum entropy based approaches.
