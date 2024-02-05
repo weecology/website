@@ -1,9 +1,9 @@
 ---
 # Display name
-title: " Ethan White"
+title: Ethan White
 
 # Username (this should match the folder name and the name on publications)
-username: "ethan-p-white"
+username: "ethan-white"
 
 # Is this the primary user of the site?
 superuser: true
