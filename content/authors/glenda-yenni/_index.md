@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Glenda M. Yenni"
+title: Glenda M Yenni
 
 # Is this the primary user of the site?
 superuser: true
