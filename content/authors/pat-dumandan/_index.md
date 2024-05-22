@@ -15,24 +15,24 @@ bio: University of Florida, Weecology PhD Student
 
 interests:
 - Ecological Forecasting
-- Dynamic Systems
+- Temporal Ecology
 
 education:
   courses:
-  - course: PhD in Interdisciplinary Ecology
-    institution: University of California San Diego
+  - course: PhD Interdisciplinary Ecology
+    institution: University of Florida
     year: 20XX
-  - course: Master of Science in Raptor Biology
+  - course: MSc Raptor Biology
     institution: Boise State University
-    year: 20XX
-  - course: BSc in biology, with a major in ecology
+    year: 2020
+  - course: BS Biology (major in Ecology)
     institution: University of the Philippines Mindanao
     year: 2014
 
 social:
 # - icon: envelope
 #   icon_pack: fas
-#   link: 'mailto:hao.ye@weecology.org'
+#   link: 'mailto:pat.dumandan@weecology.org'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/patdumandan
@@ -56,4 +56,4 @@ user_groups:
 - Graduate Students
 ---
 
-Pat is interested in employing trait-based approaches to understand and predict patterns in ecological systems.
+Pat is interested in using long-term datasets to understand and predict how ecological systems change over time.
