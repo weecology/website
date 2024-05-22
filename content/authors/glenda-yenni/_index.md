@@ -1,6 +1,10 @@
 ---
 # Display name
-title: "Glenda M. Yenni"
+title: Glenda Yenni
+
+# Link profile info correctly
+authors:
+- "glenda-yenni"
 
 # Is this the primary user of the site?
 superuser: true
