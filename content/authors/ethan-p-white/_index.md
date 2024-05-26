@@ -1,9 +1,10 @@
 ---
 # Display name
-title: Ethan White
+title:  "Ethan White"
 
 # Username (this should match the folder name and the name on publications)
-username: "ethan-white"
+username: 
+- "ethan-white"
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,44 +15,41 @@ role: Founder, Associate Professor of Wildlife Ecology and Conservation
 # Organizations/Affiliations
 organizations:
 - name: University of Florida
-  url: https://www.weecology.org/
+  url: "https://www.weecology.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the use of large datasets, machine learning, and remote sensing to understand and make forecasts for the dynamics of ecological systems at large scales
+bio: My research interests include the dynamics of ecological systems and the integration of technology and field work
 
 interests:
-- Environmental Data Science
-- Ecological Forecasting
+- Ecological Dynamics
 - Community Ecology
+- Technology + Field Work
 
 education:
   courses:
   - course: PhD in Biology
     institution: University of New Mexico
-    year: 2004
-  - course: BA in Biology
-    institution: Colorado College
-    year: 1998
+    year: 2001
+  - course: BSc in Biology
+    institution: University of Arizona
+    year: 1994
 
 social:
 - icon: home
   icon_pack: fas
-  link: 'author/ethan-white/'
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/ethanpwhite/
+  link: 'author/morgan-ernest/'
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ethanwhite@ufl.edu'
+  link: 'mailto:skmorgane@ufl.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ethanwhite
+  link: https://twitter.com/skmorgane
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=pHmra8cAAAAJ
+  link: https://scholar.google.com/citations?user=uLElX8AAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/ethanwhite
+  link: https://github.com/skmorgane
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +68,4 @@ user_groups:
 - Faculty
 ---
 
-Ethan's studies data-intensive problems in ecology including ecological forecasting and using high resolution remote sensing to understand individual level patterns in ecological systems at large scales. He is actively involved in computational training efforts as a Data Carpentry co-founder, former Executive Committee member of The Carpentries, and lead developer of the semester long Data Carpentry course.
-
-Ethan's research interests include the use of large datasets, machine learning, and remote sensing to understand and make forecasts for the dynamics of ecological systems at large scales.
+Morgan's group studies how natural systems change through time, both historically and in the future. She runs the Portal Project long-term ecological research site.
