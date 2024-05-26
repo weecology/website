@@ -1,9 +1,10 @@
 ---
 # Display name
-title: Ethan White
+title:  "Ethan White"
 
 # Username (this should match the folder name and the name on publications)
-username: "ethan-white"
+username: 
+- "ethan-white"
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +15,7 @@ role: Founder, Associate Professor of Wildlife Ecology and Conservation
 # Organizations/Affiliations
 organizations:
 - name: University of Florida
-  url: https://www.weecology.org/
+  url: "https://www.weecology.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include the use of large datasets, machine learning, and remote sensing to understand and make forecasts for the dynamics of ecological systems at large scales
@@ -70,6 +71,6 @@ user_groups:
 - Faculty
 ---
 
-Ethan's studies data-intensive problems in ecology including ecological forecasting and using high resolution remote sensing to understand individual level patterns in ecological systems at large scales. He is actively involved in computational training efforts as a Data Carpentry co-founder, former Executive Committee member of The Carpentries, and lead developer of the semester long Data Carpentry course.
+Ethan studies data-intensive problems in ecology including ecological forecasting and using high resolution remote sensing to understand individual level patterns in ecological systems at large scales. He is actively involved in computational training efforts as a Data Carpentry co-founder, former Executive Committee member of The Carpentries, and lead developer of the semester long Data Carpentry course.
 
 Ethan's research interests include the use of large datasets, machine learning, and remote sensing to understand and make forecasts for the dynamics of ecological systems at large scales.
