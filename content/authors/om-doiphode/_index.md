@@ -3,7 +3,7 @@
 title: Om Doiphode
 
 # Role/position
-role: Currently **Undergraduate at Veermata Jijabai Technological Institute** Weecology Google Summer of Code Student
+role: Google Summer of Code Student
 
 # Organizations/Affiliations
 organizations:
