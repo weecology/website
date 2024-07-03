@@ -29,7 +29,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'omdoiphode161@gmail.com'
+  link: 'mailto:omdoiphode161@gmail.com'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/om-doiphode/
