@@ -42,7 +42,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduates
+- Alumni
 ---
 
 Satyam is an Undergraduated Student in Computer Science at Cluster Innovation Centre, Delhi. He has been selected in Google Summer of Code 2023 to work on the project [Tree health and mortality from NEON data](https://summerofcode.withgoogle.com/programs/2023/projects/HooCVkAe). The goal of this project is build a new function that populates the NEON field and remote sensing data for deepforest which will help us build a baseline classification for tree health status.

@@ -42,7 +42,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduates
+- Alumni
 ---
 
 Nagesh Bansal is an undergraduate student at the Indian Institute of Technology, Roorkee. He has been selected in Google Summer of Code 2022 to work on the Project [Data retrieval using NeonVegWrangler](https://summerofcode.withgoogle.com/programs/2022/projects/lR1cWrnn). The project aims to create the neonwranglepy package, which retrieves Neon Vegetation Structure data (VST) and Airborne Observation Platform ( AOP ) data samples from the NEON Data API, cleans it, integrates both data, and provides researchers with a format ready for ecological analyses. 
