@@ -3,7 +3,7 @@
 title: Brandon Grandison
 
 # Role/position
-role: Weecology Research Experiences for Undergraduates (REU) Student
+role: Currently **PhD Student at the University of Chicago**. Weecology Research Experiences for Undergraduates (REU) Student
 
 
 # Short bio (displayed in user profile at end of posts)
