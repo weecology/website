@@ -3,7 +3,7 @@
 title: Alexis Irvin
 
 # Role/position
-role: Weecology Research Experiences for Undergraduates (REU) Student
+role: Currently **PhD Student at Cornell**. Weecology Research Experiences for Undergraduates (REU) Student
 
 
 # Short bio (displayed in user profile at end of posts)

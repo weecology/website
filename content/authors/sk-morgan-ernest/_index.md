@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Founder, Associate Professor of Wildlife Ecology and Conservation
+role: Founder, Professor of Wildlife Ecology and Conservation
 
 # Organizations/Affiliations
 organizations:
