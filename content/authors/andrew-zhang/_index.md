@@ -3,7 +3,7 @@
 title: Andrew Zhang
 
 # Role/position
-role: Currently **Software Engineer at Instagram**. Weecology Undergrad Software Developer
+role: Currently ** Quantitative Trader at Chicago Trading Company**. Weecology Undergrad Software Developer
 
 # Organizations/Affiliations
 organizations:

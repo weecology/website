@@ -3,7 +3,7 @@
 title: Aakash Chaudhary
 
 # Role/position
-role: Google Summer of Code Student
+role: Currently **MS Student at Indian Institute of Technology", Weecology Google Summer of Code Student
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,7 @@ social:
   link: https://mobile.twitter.com/aakash3128
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Aakash3101
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

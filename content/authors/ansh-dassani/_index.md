@@ -3,7 +3,7 @@
 title: Ansh Dassani
 
 # Role/position
-role: Google Summer of Code Student
+role: Currently **Software Engineer at Zanskar Research**. Weecology Google Summer of Code Student
 
 # Organizations/Affiliations
 organizations:
