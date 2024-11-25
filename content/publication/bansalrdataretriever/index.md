@@ -5,7 +5,18 @@ title: 'Rdataretriever: R Interface to the Data Retriever'
 subtitle: ''
 summary: ''
 authors:
-- Max Pohlman10 Bansal
+- Henry Senyondo
+- Daniel J McGlinn
+- Pranita Sharma
+- David J Harris
+- Hao Ye
+- Shawn D Taylor
+- Jeroen Ooms
+- Francisco Rodríguez-Sánchez
+- Karthik Ram
+- Apoorva Pandey
+- Harshit Bansal
+- Max Pohlman
 - Ethan P White
 tags: []
 url_pdf: 'https://www.theoj.org/joss-papers/joss.02800/10.21105.joss.02800.pdf'
@@ -17,7 +28,7 @@ url_code: 'https://github.com/ropensci/rdataretriever'
 url_source: 'https://docs.ropensci.org/rdataretriever/'
 # url_video: ''
 categories: []
-date: -01-01
+date: 2021-01-01
 lastmod: 2023-07-18T21:37:54-04:00
 featured: false
 draft: false

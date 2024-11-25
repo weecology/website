@@ -18,7 +18,7 @@ url_pdf: ''
 # url_source: ''
 # url_video: ''
 categories: []
-date: -01-01
+date: 2018-01-01
 lastmod: 2023-07-18T21:37:51-04:00
 featured: false
 draft: false
