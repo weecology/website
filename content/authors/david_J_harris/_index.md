@@ -3,7 +3,7 @@
 title: David J. Harris
 
 # Role/position
-role: Currently **Lead Data Scientist at Chewy**. Weecology Postdoc
+role: Currently **Staff Machine Learning Engineer at Chewy**. Weecology Postdoc
 
 # Organizations/Affiliations
 organizations:

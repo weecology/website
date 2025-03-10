@@ -3,7 +3,7 @@
 title: Hao Ye
 
 # Role/position
-role: Currently **Reproducibility Librarian, University of Florida**. Weecology Postdoc
+role: Currently **Curriculum Lead at Community for RIGOR**. Weecology Postdoc
 
 # Organizations/Affiliations
 organizations:

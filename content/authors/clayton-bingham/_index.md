@@ -3,7 +3,7 @@
 title: Clayton Bingham
 
 # Role/position
-role: Currently **Postdoc at Duke University**. Weecology Undergrad Researcher
+role: Currently **Program Officer at The National Institutes of Health**. Weecology Undergrad Researcher
 
 # Organizations/Affiliations
 organizations:

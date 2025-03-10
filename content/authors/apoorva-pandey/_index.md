@@ -3,7 +3,7 @@
 title: Apoorva Pandey
 
 # Role/position
-role: Currently **Software Engineer at Datapane**. Weecology Google Summer of Code Student
+role: Currently **Developer at OUTWRQ**. Weecology Google Summer of Code Student
 
 # Organizations/Affiliations
 organizations:

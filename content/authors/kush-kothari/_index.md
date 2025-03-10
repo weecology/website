@@ -3,7 +3,7 @@
 title: Kush Kothari
 
 # Role/position
-role: Currently **Undergraduate at Veermata Jijabai Technological Institute** Weecology Google Summer of Code Student
+role: Currently **Senior Analyst at Deutsche Bank**. Weecology Google Summer of Code Student
 
 # Organizations/Affiliations
 organizations:

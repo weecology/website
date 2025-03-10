@@ -3,7 +3,7 @@
 title: Shivam Negi
 
 # Role/position
-role: Currently **MS Student at Johns Hopkins University**. Weecology Google Summer of Code Student
+role: Currently **Security Engineer at MathWorks**. Weecology Google Summer of Code Student
 
 # Organizations/Affiliations
 organizations:

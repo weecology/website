@@ -45,7 +45,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduates
+- Alumni
 ---
 
 Muhammed is part of Google summer of code program for year 2024, Working on [Advancing Bird Detection and Classification in Hand-Held Airborne Imagery](https://summerofcode.withgoogle.com/programs/2024/projects/RKvEGjbd).

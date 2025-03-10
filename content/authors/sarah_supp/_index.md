@@ -3,7 +3,7 @@
 title: Sarah Supp
 
 # Role/position
-role: Currently **Assistant Professor at Denison University**. Weecology PhD
+role: Currently **Associate Professor, Data Analytics at Denison University**. Weecology PhD
 
 # Organizations/Affiliations
 organizations:
