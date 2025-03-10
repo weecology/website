@@ -3,7 +3,7 @@
 title: Mikaelle Giffin
 
 # Role/position
-role: Currently **Toxicologist at Nelson Labs**. Weecology Undergrad Researcher
+role: Currently **Senior Toxicologist at Medtronic**. Weecology Undergrad Researcher
 
 # Organizations/Affiliations
 organizations:

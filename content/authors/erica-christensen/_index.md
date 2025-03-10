@@ -3,7 +3,7 @@
 title: Erica Christensen
 
 # Role/position
-role: Currently **Postdoc at USDA-ARS Jornada Experimental Range** Weecology PhD
+role: Currently **Biologist at USGS Fort Collins Science Center** Weecology PhD
 
 # Organizations/Affiliations
 organizations:

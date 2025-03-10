@@ -3,7 +3,7 @@
 title: Virnaliz Cruz-Hernández
 
 # Role/position
-role: PhD Student
+role: Currently **Data Analyst at Cary Institute of Ecosystem Studies**. Weecology PhD
 
 # Organizations/Affiliations
 organizations:
@@ -51,7 +51,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 ---
 
 Virnaliz is interested in the intersection of disease ecology and data science.

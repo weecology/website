@@ -3,7 +3,7 @@
 title: Satyam Sinha
 
 # Role/position
-role: Google Summer of Code Student
+role:  Currently **Software Solutions Specialist at Soluperts**. Google Summer of Code Student
 
 # Organizations/Affiliations
 organizations:

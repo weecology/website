@@ -3,7 +3,7 @@
 title: Pat Dumandan
 
 # Role/position
-role: PhD Student
+role: Currently **Postdoctoral Researcher at Swedish University of Agricultural Sciences**. Weecology PhD
 
 # Organizations/Affiliations
 organizations:
@@ -53,7 +53,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 ---
 
 Pat is interested in using long-term datasets to understand and predict how ecological systems change over time.
