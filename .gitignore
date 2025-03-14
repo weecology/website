@@ -5,3 +5,4 @@ resources/_gen/
 .Rproj.user
 *.DS_Store*
 .hugo_build.lock
+assets/jsconfig.json

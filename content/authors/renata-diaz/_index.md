@@ -16,7 +16,7 @@ organizations:
 education:
   courses:
   - course: PhD Interdisciplinary Ecology and Wildlife Ecology and Conservation
-    institution: University of California San Diego
+    institution: University of Florida
     year: 2022
   - course: A.B Ecology and Evolutionary Biology
     institution: Princeton University
