@@ -28,11 +28,11 @@ education:
     year: 202X
 
   - course: M.Sc. Biological Science
-    institution: Umea University, Sweden
+    institution: Umeå University, Sweden
     year: 2017
 
   - course: B.Sc. Biological Science, Major - Biology, Minor - Ecology
-    institution: Umea University, Sweden
+    institution: Umeå University, Sweden
     year: 2015
 
 social:
