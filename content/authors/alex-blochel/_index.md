@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sam Lamb
+title: Alex Blochel
 
 # Role/position
 role: Weecology PhD
@@ -17,10 +17,9 @@ bio: University of Florida, Weecology PhD Student
 summary : "Weecology PhD"
 
 interests:
+- Quantitative ecology
 - Ecological Forecasting
-- Temporal Ecology
-- Small Mammal Community Dynamics
-- Desert Rodent Ecology
+- Trait-Based Ecology
 
 education:
   courses:
@@ -28,13 +27,13 @@ education:
     institution: University of Florida
     year: 202X
 
-  - course: MS Wildlife Ecology
-    institution: Texas State University
-    year: 2025
+  - course: M.Sc. Biological Science
+    institution: Umea University, Sweden
+    year: 2017
 
-  - course: BS Wildlife Biology
-    institution: Texas State University
-    year: 2023
+  - course: B.Sc. Biological Science, Major - Biology, Minor - Ecology
+    institution: Umea University, Sweden
+    year: 2015
 
 social:
 # - icon: envelope
@@ -45,7 +44,7 @@ social:
 #   link: https://
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/samantha-lamb-35569917b/
+  link: https://www.linkedin.com/in/blochel/
 - icon: github
   icon_pack: fab
   link: https://github.com/
@@ -62,5 +61,5 @@ user_groups:
 - Graduate Students
 ---
 
-Sam is interested in using community dynamics of small mammals to 1) understand changes in biodiversity, and 2) to predict changes in species abundances, in response to changing climate and biotic conditions.
+Alex Blochel is interested in Ecological Forecasting of Everglades Wading Birds.
 
