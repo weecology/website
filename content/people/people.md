@@ -22,6 +22,7 @@ content:
   - Undergraduates
   - Researchers
   - Grad Students
+  - Biodiversity Annotation Team
   - Alumni
 design:
   show_interests: false
