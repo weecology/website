@@ -26,9 +26,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:henrykironde@gmail.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/henrykironde
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=ZKNATTkAAAAJ

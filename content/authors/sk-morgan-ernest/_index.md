@@ -41,9 +41,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:skmorgane@ufl.edu'
-- icon: twitter
+- icon: bluesky
   icon_pack: fab
-  link: https://twitter.com/skmorgane
+  link: https://bsky.app/profile/skmorgane.bsky.social
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=uLElX8AAAAAJ
