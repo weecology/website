@@ -44,9 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:ethanwhite@ufl.edu'
-- icon: twitter
+- icon: bluesky
   icon_pack: fab
-  link: https://twitter.com/ethanwhite
+  link: https://bsky.app/profile/ethan.weecology.org
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=pHmra8cAAAAJ
