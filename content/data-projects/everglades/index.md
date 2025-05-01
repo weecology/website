@@ -4,14 +4,14 @@
 title: "Everglades Wading Birds"
 summary: "Monitoring and studying the long-term population & biodiversity dynamics of wading birds in the Everglades."
 authors: []
-tags: ["research"]
+tags: ["dataset"]
 categories: []
 date: 2021-10-25T15:04:31-04:00
 show_date: false
 profile: false
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://everglades.weecology.org/"
+external_link: "https://everglades.weecology.org/#data"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -35,7 +35,7 @@ links:
   icon_pack: fa
   icon: home
 - name: Data
-  url: https://github.com/weecology/EvergladesWadingBird
+  url: https://doi.org/10.5281/zenodo.7734553
   icon_pack: fa
   icon: database
 
