@@ -3,7 +3,7 @@
 title: Samia Haque Tisha
 
 # Role/position
-role: Google Summer of Code Student
+role: Junior AI Researcher InfinitiBit
 
 # Organizations/Affiliations
 organizations:
@@ -39,7 +39,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduates
+- Alumni
 ---
 
 Samia is an Undergraduated Student in Software Engineering at Daffodil International University, Dhaka. She has been selected in Google Summer of Code 2025 to work on the project [Integrating DeepForest Object Detection with LLM for Automated Ecological Image Analysis](https://summerofcode.withgoogle.com/programs/2025/projects/ItYAp7By). The goal of this project is to integrate DeepForest's object detection models with a Large Language Model (LLM) so that ecological images can be queried using natural language.
