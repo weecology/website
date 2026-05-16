@@ -39,7 +39,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduates
+- Alumni
 ---
 
 Nakshatra is an Undergraduated Student. He has been selected in Google Summer of Code 2025 to work on the project [Developing an Active Learning Module for DeepForest](https://summerofcode.withgoogle.com/programs/2025/projects/n9Ophyn4). The objective is to create a new "Active learning" module for DeepForest, which will help in annotation related tasks.
