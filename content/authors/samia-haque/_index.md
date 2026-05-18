@@ -3,7 +3,7 @@
 title: Samia Haque Tisha
 
 # Role/position
-role: Junior AI Researcher InfinitiBit
+role: Currently Junior AI Researcher at InfinitiBit. Weecology Google Summer of Code Student
 
 # Organizations/Affiliations
 organizations:

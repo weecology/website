@@ -3,7 +3,7 @@
 title: Renata Diaz
 
 # Role/position
-role: Currently **Data Scientist & Educator at the University of Arizona**. Weecology Postdoc
+role: Currently **Data Scientist & Educator at the University of Arizona**. Weecology PhD
 
 # Organizations/Affiliations
 organizations:
