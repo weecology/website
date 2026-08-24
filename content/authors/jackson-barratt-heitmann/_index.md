@@ -14,7 +14,7 @@ organizations:
 bio: University of Florida, Weecology Postdoc
 
 # Project summary to display on homepage.
-summary : "Weecology Postdoc"
+summary: "Weecology Postdoc"
 
 interests:
 - Quantitative Ecology
@@ -43,9 +43,9 @@ social:
 - icon: home
   icon_pack: fas
   link: http://jacksonbarrattheitmann.com
- - icon: envelope
-   icon_pack: fas
-   link: 'mailto:j.barrattheitman@ufl.edu'
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:j.barrattheitman@ufl.edu'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=-QWglXUAAAAJ&hl=en
