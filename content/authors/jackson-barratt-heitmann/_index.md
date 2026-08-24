@@ -39,9 +39,6 @@ social:
  - icon: envelope
    icon_pack: fas
    link: 'j.barrattheitman@ufl.edu'
-- icon: home
-  icon_pack: fas
-  link: https://jacksonbarrattheitmann.com
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=-QWglXUAAAAJ&hl=en
